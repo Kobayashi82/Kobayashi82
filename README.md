@@ -18,7 +18,7 @@
 <td width="50%" valign="top">
 
 ### 🔧 Sistemas
-- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) - Daemon con shell remoto, cifrado y logging avanzado
+- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) - Daemon con shell remoto, cifrado y logging
 - [Taskmaster *](https://github.com/Kobayashi82/taskmaster) - Control de procesos estilo supervisor
 
 </td>
@@ -55,7 +55,7 @@
 
 ### 🏗️ Servidores
 - [Webserv](https://github.com/Kobayashi82/webserv) - Servidor HTTP custom en C++98
-- [Inception](https://github.com/Kobayashi82/inception) - Infraestructura dockerizada con NGINX, WordPress, MariaDB
+- [Inception](https://github.com/Kobayashi82/inception) - Infraestructura dockerizada
 
 </td>
 <td width="33%" valign="top">
