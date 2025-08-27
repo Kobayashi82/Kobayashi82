@@ -27,8 +27,8 @@
 ### 🌐 Redes
 - [ft_nmap *](https://github.com/Kobayashi82/ft_nmap) - Escáner de puertos con threading
 - [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) - Herramienta educativa de ARP spoofing
-- [ft_ping](https://github.com/Kobayashi82/ft_ping) - Implementación custom del comando ping
-- [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación del comando traceroute
+- [ft_ping](https://github.com/Kobayashi82/ft_ping) - Implementación de ping
+- [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación de traceroute
 
 </td>
 </tr>
@@ -62,7 +62,7 @@
 
 ### ⚡ Low-Level
 - [Libasm](https://github.com/Kobayashi82/libasm) - Funciones libc en assembly x86-64
-- [Tinky-Winkey](https://github.com/Kobayashi82/tinky-winkey) - Servicio Windows + keylogger (educativo)
+- [Tinky-Winkey](https://github.com/Kobayashi82/tinky-winkey) - Servicio Windows + keylogger
 
 </td>
 </tr>
