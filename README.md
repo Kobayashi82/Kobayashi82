@@ -86,5 +86,4 @@
 <img src="https://komarev.com/ghpvc/?username=Kobayashi82&label=Profile%20views&color=0e75b6&style=flat" alt="kobayashi82" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Kobayashi82&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=vzurera-&descAlignY=55&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=footer"/>
