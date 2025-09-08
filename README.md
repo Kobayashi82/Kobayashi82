@@ -10,10 +10,16 @@
 
 <table>
   <tr>
-    <td valign="middle" width="400">
+    <td valign="middle" width="600">
       <b>Entusiasta en sistemas de bajo nivel</b> que disfruta desentrañando cómo funcionan las cosas por dentro. 
       Desde daemons hasta malware, desde shells hasta escáneres de red. 
       Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
+      <br/><br/>
+      <br/><br/>
+      <br/><br/>
+      <br/><br/>
+      <br/><br/>
+      <br/><br/>
       <br/><br/>
     </td>
     <td valign="middle">
