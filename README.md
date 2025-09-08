@@ -89,6 +89,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,232,196,202,40&height=200&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=88,124,160,196,202&height=200&section=footer"/>
 
 </div>
