@@ -8,16 +8,21 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <p style="flex: 1;">
-    <b>Entusiasta en sistemas de bajo nivel</b> que disfruta desentrañando cómo funcionan las cosas por dentro. 
-    Desde daemons hasta malware, desde shells hasta escáneres de red. 
-    Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
-  </p>
-  <a href="https://profile.intra.42.fr/users/vzurera-">
-    <img src="https://badge.mediaplus.ma/kettlebells/vzurera-" alt="vzurera-'s 42 stats" width="300">
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <b>Entusiasta en sistemas de bajo nivel</b> que disfruta desentrañando cómo funcionan las cosas por dentro. 
+      Desde daemons hasta malware, desde shells hasta escáneres de red. 
+      Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
+    </td>
+    <td valign="middle">
+      <a href="https://profile.intra.42.fr/users/vzurera-">
+        <img src="https://badge.mediaplus.ma/kettlebells/vzurera-" alt="vzurera-'s 42 stats" width="250">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
