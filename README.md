@@ -8,15 +8,17 @@
 
 ---
 
-**Entusiasta en sistemas de bajo nivel** que disfruta desentrañando cómo funcionan las cosas por dentro. Desde daemons hasta malware, desde shells hasta escáneres de red. Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
-
-<br/><br/>
-
-<div align="center">
- 
-[![vzurera-'s 42 stats](https://badge.mediaplus.ma/kettlebells/vzurera-)](https://profile.intra.42.fr/users/vzurera-)
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <p style="flex: 1;">
+    <b>Entusiasta en sistemas de bajo nivel</b> que disfruta desentrañando cómo funcionan las cosas por dentro. 
+    Desde daemons hasta malware, desde shells hasta escáneres de red. 
+    Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
+  </p>
+  <a href="https://profile.intra.42.fr/users/vzurera-">
+    <img src="https://badge.mediaplus.ma/kettlebells/vzurera-" alt="vzurera-'s 42 stats">
+  </a>
 </div>
+
 
 ## Mis Proyectos
 
