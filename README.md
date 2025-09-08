@@ -12,7 +12,11 @@
 
 <br/><br/>
 
+<div align="center">
+ 
 [![vzurera-'s 42 stats](https://badge.mediaplus.ma/darkblue/vzurera-)](https://github.com/oakoudad/badge42)
+
+</div>
 
 <br/><br/>
 ## Mis Proyectos
