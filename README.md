@@ -10,15 +10,12 @@
 
 **Entusiasta en sistemas de bajo nivel** que disfruta desentrañando cómo funcionan las cosas por dentro. Desde daemons hasta malware, desde shells hasta escáneres de red. Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
 
-<br/><br/>
-
 <div align="center">
  
-[![vzurera-'s 42 stats](https://badge.mediaplus.ma/darkblue/vzurera-)](https://github.com/oakoudad/badge42)
+[![vzurera-'s 42 stats](https://badge.mediaplus.ma/kettlebells/vzurera-)](https://github.com/oakoudad/badge42)
 
 </div>
 
-<br/><br/>
 ## Mis Proyectos
 
 <table>
