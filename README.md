@@ -22,7 +22,7 @@
       <br/><br/>
       <br/><br/>
     </td>
-    <td valign="middle">
+    <td valign="middle"  width="600">
       <a href="https://profile.intra.42.fr/users/vzurera-">
         <img src="https://badge.mediaplus.ma/kettlebells/vzurera-" alt="vzurera-'s 42 stats" width="250">
       </a>
