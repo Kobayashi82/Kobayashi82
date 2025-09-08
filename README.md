@@ -14,7 +14,7 @@
 
 <div align="center">
  
-[![vzurera-'s 42 stats](https://badge.mediaplus.ma/kettlebells/vzurera-)]([https://github.com/oakoudad/badge42](https://profile.intra.42.fr/users/vzurera-))
+[![vzurera-'s 42 stats](https://badge.mediaplus.ma/kettlebells/vzurera-)](https://profile.intra.42.fr/users/vzurera-)
 
 </div>
 
