@@ -12,12 +12,6 @@
 
 <br/><br/>
 
-<div align="center">
- 
-[![vzurera-'s 42 stats](https://badge.mediaplus.ma/kettlebells/vzurera-)](https://profile.intra.42.fr/users/vzurera-)
-
-</div>
-
 ## Mis Proyectos
 
 <table>
