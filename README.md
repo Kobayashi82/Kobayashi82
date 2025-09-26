@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=88,124,160,196,202&height=200&section=header&text=Kobayashi82&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=vzurera-&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=88,124,160,196,202&height=200&section=header&text=Kobayashi82&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=5000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=true&width=600&height=160&lines=malloc()+or+die();segfault+is+my+middle+name;pointer+arithmetic+wizard;fork()+children+everywhere;SIGSEGV+my+old+friend;buffer+overflow+artist;assembly+is+just+spicy+C;shell+scripting+ninja;daemon+process+master;TCP+socket+magician;ARP+spoofing+for+fun;ptrace()+debugging+god;signal+handler+expert;memory+leak+detective;sudo+rm+-rf+/+survivor;kernel+panic+enthusiast;undefined+behavior+lover;valgrind+clean+or+bust;gdb+is+my+best+friend;stack+smashing+detected" alt="Typing SVG" />
 
 </div>
 
 ---
-
-**Entusiasta en sistemas de bajo nivel** que disfruta desentrañando cómo funcionan las cosas por dentro. Desde daemons hasta malware, desde shells hasta escáneres de red. Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
 
 <br/><br/>
 
