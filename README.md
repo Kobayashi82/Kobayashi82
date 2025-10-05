@@ -60,7 +60,6 @@
 <td width="33%" valign="top">
 
 ### ⚡ Low-Level
-- [Libasm](https://github.com/Kobayashi82/libasm) - Funciones libc en assembly x86-64
 - [Tinky-Winkey](https://github.com/Kobayashi82/tinky-winkey) - Servicio Windows + keylogger (educativo)
 
 </td>
