@@ -32,32 +32,53 @@
 </tr>
 
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🖥️ Shells
 - [42sh *](https://github.com/Kobayashi82/42sh) - Shell UNIX con control de trabajos
 - [Minishell](https://github.com/Kobayashi82/Minishell) - Shell minimalista tipo Unix
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 💾 Gestión de Memoria
 - [Malloc](https://github.com/Kobayashi82/Malloc) - Asignador de memoria dinámico con mmap
+- [MemSafe](https://github.com/Kobayashi82/MemSafe) - Funciones wrapper para la gestión automática de memoria y recursos en aplicaciones C
 
 </td>
-<tr>
+</tr>
 
-<td width="33%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🏗️ Servidores
 - [Webserv](https://github.com/Kobayashi82/Webserv) - Servidor HTTP custom en C++98
 - [Inception](https://github.com/Kobayashi82/Inception) - Infraestructura dockerizada con NGINX, WordPress, MariaDB
+- [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) - Real-time multiplayer Pong web platform
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ Low-Level
+### 🪟 Windows
+- [K-Desktop](https://github.com/Kobayashi82/K-Desktop) - Programa de automatización desarrollado en Visual Basic .NET
+- [K-Movies](https://github.com/Kobayashi82/K-Movies) - Gestor de películas desarrollado en Visual Basic .NET
 - [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) - Servicio Windows + keylogger (educativo)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Arduino
+- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) - Sistema de monitoreo de actividad combinado con hardware Arduino
+- [AutoTrim *](https://github.com/Kobayashi82/AutoTrim) - (Work in Progress) Piloto automático para MSFS 2020 que controla una rueda de trim física conectada a Arduino
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Kerbal (kOS)
+- [SBurn *](https://github.com/Kobayashi82/SBurn) - Suicide Burn script for Kerbal Operating System (kOS)
 
 </td>
 </tr>
