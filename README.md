@@ -70,12 +70,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kobayashi82&label=Profile%20views&color=0e75b6&style=flat" alt="kobayashi82" />
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=88,124,160,196,202&height=200&section=footer"/>
 
 </div>
