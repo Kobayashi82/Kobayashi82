@@ -5,19 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=600&lines=Kobayashi82;vzurera-;Full+Stack+Developer;System+Programmer" alt="Typing SVG" /></a>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=Kobayashi82&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=55&desc=vzurera-&descAlignY=75&descSize=20"/>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Kobayashi82&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=vzurera-&descAlignY=60"/>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=14,17,18,19,20&height=180&section=header&text=Kobayashi82&fontSize=55&fontColor=fff&animation=scaleIn&fontAlignY=45&desc=vzurera-&descAlignY=65"/>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=150&section=header&text=Kobayashi82&fontSize=60&fontColor=fff&desc=vzurera-&descSize=20&descAlignY=75&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,14,18&height=200&section=header&text=Kobayashi82&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=vzurera-&descAlignY=55&descSize=18"/>
 </div>
 ---
 
