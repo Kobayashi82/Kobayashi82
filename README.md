@@ -50,9 +50,9 @@
 <td width="50%" valign="top">
 
 ### 🏗️ Servidores
-- [Webserv](https://github.com/Kobayashi82/Webserv) - Servidor HTTP custom en C++98
-- [Inception](https://github.com/Kobayashi82/Inception) - Infraestructura dockerizada con NGINX, WordPress, MariaDB
-- [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) - Plataforma web interactiva de Pong en tiempo real
+- [Webserv](https://github.com/Kobayashi82/Webserv) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Servidor HTTP
+- [Inception](https://github.com/Kobayashi82/Inception) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Infraestructura dockerizada con WordPress, MariaDB
+- [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) - Web interactiva para jugar a Pong
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +60,7 @@
 ### 🪟 Windows
 - [K-Desktop](https://github.com/Kobayashi82/K-Desktop) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Programa de automatización
 - [K-Movies](https://github.com/Kobayashi82/K-Movies) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Gestor de películas
-- [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) - Servicio Windows + keylogger
+- [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) - Servicio Windows y keylogger
 
 </td>
 </tr>
