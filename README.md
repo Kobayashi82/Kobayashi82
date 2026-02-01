@@ -50,8 +50,8 @@
 <td width="50%" valign="top">
 
 ### 🏗️ Servidores
-- [Webserv](https://github.com/Kobayashi82/Webserv) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Servidor HTTP
-- [Inception](https://github.com/Kobayashi82/Inception) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Docker con WordPress y MariaDB
+- [Webserv](https://github.com/Kobayashi82/Webserv) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Servidor HTTP
+- [Inception](https://github.com/Kobayashi82/Inception) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Docker con WordPress y MariaDB
 - [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) - Web interactiva para jugar a Pong
 
 </td>
