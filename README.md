@@ -69,14 +69,14 @@
 <td width="50%" valign="top">
 
 ### 🤖 Arduino
-- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) - Sistema de monitoreo de actividad remota combinado con hardware Arduino
-- [AutoTrim *](https://github.com/Kobayashi82/AutoTrim) - (Work in Progress) Piloto automático para MSFS 2020 que controla una rueda de trim física conectada a Arduino
+- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Monitor de actividad remota
+- [AutoTrim *](https://github.com/Kobayashi82/AutoTrim) - Piloto automático para MSFS 2020
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚀 Kerbal (kOS)
-- [SBurn *](https://github.com/Kobayashi82/SBurn) - Suicide Burn script para Kerbal Operating System (kOS)
+- [SBurn *](https://github.com/Kobayashi82/SBurn) - Script de aterrizaje (suicide burn)
 
 </td>
 </tr>
