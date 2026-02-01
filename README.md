@@ -10,9 +10,9 @@
 
 ## Mis Proyectos
 
-<table>
+<table style="table-layout: fixed; width: 100%;">
 <tr>
-<td width="50%" valign="top">
+<td width="400" valign="top">
 
 ### 🔧 Sistemas
 - [MattDaemon](https://github.com/Kobayashi82/MattDaemon) - Daemon con shell remoto y logging
