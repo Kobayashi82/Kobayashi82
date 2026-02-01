@@ -82,6 +82,7 @@
 </tr>
 </table>
 
+##### <span style="color: blue;">*</span> Proyecto aún en desarrollo
 ##### [*]() Proyecto aún en desarrollo
 
 ---
