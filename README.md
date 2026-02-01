@@ -1,6 +1,3 @@
-
-## Mis Proyectos
-
 <table style="table-layout: fixed; width: 100%;">
 <tr>
 <td width="800" valign="top">
