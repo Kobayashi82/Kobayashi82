@@ -15,15 +15,15 @@
 <td width="50%" valign="top">
 
 ### 🔧 Sistemas
-- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) - Daemon con shell remoto, cifrado y logging avanzado
+- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) &nbsp;&nbsp;- Daemon con shell remoto, cifrado y logging avanzado
 - [Taskmaster *](https://github.com/Kobayashi82/Taskmaster) - Control de procesos estilo supervisor
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Redes
-- [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Herramienta educativa de ARP spoofing
-- [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación custom del comando ping
+- [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Herramienta educativa de ARP spoofing
+- [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación custom del comando ping
 - [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación del comando traceroute
 
 </td>
