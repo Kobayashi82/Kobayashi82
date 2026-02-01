@@ -69,7 +69,7 @@
 <td width="50%" valign="top">
 
 ### 🤖 Arduino
-- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) &nbsp;&nbsp;&nbsp;- Monitor de actividad remota
+- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) &nbsp;&nbsp;&nbsp;&nbsp;- Monitor de actividad remota
 - [AutoTrim *](https://github.com/Kobayashi82/AutoTrim) - Piloto automático para MSFS 2020
 
 </td>
