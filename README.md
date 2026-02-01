@@ -69,7 +69,7 @@
 <td width="50%" valign="top">
 
 ### 🤖 Arduino
-- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) &nbsp;&nbsp;&nbsp;&nbsp;- Monitor de actividad remota
+- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) &nbsp;&nbsp;&nbsp;- Monitor de actividad remota
 - [AutoTrim *](https://github.com/Kobayashi82/AutoTrim) - Piloto automático para MSFS 2020
 
 </td>
@@ -83,17 +83,6 @@
 </table>
 
 ##### [*]() Proyecto aún en desarrollo
-```
-
-**Cambios:**
-- `nowrap` en lugar de `style="white-space: nowrap;"`
-- 3 columnas por tabla: nombre (alineado derecha) | `-` | descripción
-- Sin anchos fijos complicados, dejo que GitHub lo maneje
-
-Ahora sí debería verse como:
-```
-        MattDaemon - Daemon con shell remoto...
-        Taskmaster - Control de procesos...
 
 ---
 <br/><br/>
