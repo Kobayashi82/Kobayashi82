@@ -40,8 +40,8 @@
 <td width="50%" valign="top">
 
 ### 💾 Gestión de Memoria
-- [Malloc](https://github.com/Kobayashi82/Malloc) &nbsp;&nbsp;- Asignador de memoria dinámico
-- [MemSafe](https://github.com/Kobayashi82/MemSafe) - Wrapper para la gestión de memoria y recursos en aplicaciones C
+- [Malloc](https://github.com/Kobayashi82/Malloc) &nbsp;&nbsp;&nbsp;&nbsp;- Asignador de memoria dinámico
+- [MemSafe](https://github.com/Kobayashi82/MemSafe) - Wrapper para gestión de memoria C
 
 </td>
 </tr>
