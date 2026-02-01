@@ -23,7 +23,7 @@
 
 ### 🌐 Redes
 - [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Herramienta educativa de ARP spoofing
-- [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación custom del comando ping
+- [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación del comando ping
 - [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación del comando traceroute
 
 </td>
@@ -41,7 +41,7 @@
 
 ### 💾 Gestión de Memoria
 - [Malloc](https://github.com/Kobayashi82/Malloc) &nbsp;&nbsp;- Asignador de memoria dinámico
-- [MemSafe](https://github.com/Kobayashi82/MemSafe) - Funciones wrapper para la gestión automática de memoria y recursos en aplicaciones C
+- [MemSafe](https://github.com/Kobayashi82/MemSafe) - Wrapper para la gestión de memoria y recursos en aplicaciones C
 
 </td>
 </tr>
