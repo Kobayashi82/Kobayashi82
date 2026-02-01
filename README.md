@@ -22,7 +22,7 @@
 <td width="50%" valign="top">
 
 ### 🌐 Redes
-- [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Spoofing ARP educativo
+- [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Spoofing ARP educativo
 - [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación de ping
 - [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación de traceroute
 
@@ -40,7 +40,7 @@
 <td width="50%" valign="top">
 
 ### 💾 Gestión de Memoria
-- [Malloc](https://github.com/Kobayashi82/Malloc) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Asignador de memoria dinámico
+- [Malloc](https://github.com/Kobayashi82/Malloc) &nbsp;&nbsp;&nbsp;&nbsp; - Asignador de memoria dinámico
 - [MemSafe](https://github.com/Kobayashi82/MemSafe) - Wrapper para gestión de memoria C
 
 </td>
