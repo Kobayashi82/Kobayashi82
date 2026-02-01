@@ -13,8 +13,8 @@
 <tr>
 <td width="50%" valign="top">
 
+**🔧 Sistemas**
 <table>
-<tr><td colspan="2"><b>🔧 Sistemas</b></td></tr>
 <tr>
   <td align="right" width="160"><a href="https://github.com/Kobayashi82/MattDaemon">MattDaemon</a>:</td>
   <td>Daemon con shell remoto, cifrado y logging avanzado</td>
@@ -23,20 +23,24 @@
   <td align="right"><a href="https://github.com/Kobayashi82/Taskmaster">Taskmaster *</a>:</td>
   <td>Control de procesos estilo supervisor</td>
 </tr>
+</table>
 
-<tr><td colspan="2"><b>🖥️ Shells</b></td></tr>
+**🖥️ Shells**
+<table>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/42sh">42sh *</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/42sh">42sh *</a>:</td>
   <td>Shell UNIX con control de trabajos</td>
 </tr>
 <tr>
   <td align="right"><a href="https://github.com/Kobayashi82/Minishell">Minishell</a>:</td>
   <td>Shell minimalista tipo Unix</td>
 </tr>
+</table>
 
-<tr><td colspan="2"><b>🏗️ Servidores</b></td></tr>
+**🏗️ Servidores**
+<table>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/Webserv">Webserv</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/Webserv">Webserv</a>:</td>
   <td>Servidor HTTP custom en C++98</td>
 </tr>
 <tr>
@@ -47,22 +51,25 @@
   <td align="right"><a href="https://github.com/Kobayashi82/ft_transcendence">ft_transcendence</a>:</td>
   <td>Plataforma web interactiva de Pong en tiempo real</td>
 </tr>
+</table>
 
-<tr><td colspan="2"><b>🤖 Arduino</b></td></tr>
+**🤖 Arduino**
+<table>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/K-WAYD">K-WAYD</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/K-WAYD">K-WAYD</a>:</td>
   <td>Sistema de monitoreo de actividad remota combinado con hardware Arduino</td>
 </tr>
 <tr>
   <td align="right"><a href="https://github.com/Kobayashi82/AutoTrim">AutoTrim *</a>:</td>
   <td>(Work in Progress) Piloto automático para MSFS 2020 que controla una rueda de trim física conectada a Arduino</td>
 </tr>
+</table>
 
 </td>
 <td width="50%" valign="top">
 
+**🌐 Redes**
 <table>
-<tr><td colspan="2"><b>🌐 Redes</b></td></tr>
 <tr>
   <td align="right" width="160"><a href="https://github.com/Kobayashi82/ft_malcolm">ft_malcolm</a>:</td>
   <td>Herramienta educativa de ARP spoofing</td>
@@ -75,20 +82,24 @@
   <td align="right"><a href="https://github.com/Kobayashi82/ft_traceroute">ft_traceroute *</a>:</td>
   <td>Implementación del comando traceroute</td>
 </tr>
+</table>
 
-<tr><td colspan="2"><b>💾 Gestión de Memoria</b></td></tr>
+**💾 Gestión de Memoria**
+<table>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/Malloc">Malloc</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/Malloc">Malloc</a>:</td>
   <td>Asignador de memoria dinámico con mmap</td>
 </tr>
 <tr>
   <td align="right"><a href="https://github.com/Kobayashi82/MemSafe">MemSafe</a>:</td>
   <td>Funciones wrapper para la gestión automática de memoria y recursos en aplicaciones C</td>
 </tr>
+</table>
 
-<tr><td colspan="2"><b>🪟 Windows</b></td></tr>
+**🪟 Windows**
+<table>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/K-Desktop">K-Desktop</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/K-Desktop">K-Desktop</a>:</td>
   <td>Programa de automatización</td>
 </tr>
 <tr>
@@ -99,13 +110,14 @@
   <td align="right"><a href="https://github.com/Kobayashi82/Tinky-Winkey">Tinky-Winkey</a>:</td>
   <td>Servicio Windows + keylogger (educativo)</td>
 </tr>
+</table>
 
-<tr><td colspan="2"><b>🚀 Kerbal (kOS)</b></td></tr>
+**🚀 Kerbal (kOS)**
+<table>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/SBurn">SBurn *</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/SBurn">SBurn *</a>:</td>
   <td>Suicide Burn script para Kerbal Operating System (kOS)</td>
 </tr>
-
 </table>
 
 </td>
