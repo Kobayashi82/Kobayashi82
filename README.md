@@ -33,8 +33,8 @@
 <td width="50%" valign="top">
 
 ### 🖥️ Shells
-- [42sh *](https://github.com/Kobayashi82/42sh) &nbsp;&nbsp;&nbsp;&nbsp;- Shell UNIX con control de trabajos
-- [Minishell](https://github.com/Kobayashi82/Minishell) - Shell minimalista tipo Unix
+- [42sh *](https://github.com/Kobayashi82/42sh) &nbsp;&nbsp;&nbsp;&nbsp;- Shell POSIX completo
+- [Minishell](https://github.com/Kobayashi82/Minishell) - Shell minimalista
 
 </td>
 <td width="50%" valign="top">
