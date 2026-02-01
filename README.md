@@ -40,7 +40,7 @@
 <td width="50%" valign="top">
 
 ### 💾 Gestión de Memoria
-- [Malloc](https://github.com/Kobayashi82/Malloc) - Asignador de memoria dinámico con mmap
+- [Malloc](https://github.com/Kobayashi82/Malloc) &nbsp;&nbsp;- Asignador de memoria dinámico
 - [MemSafe](https://github.com/Kobayashi82/MemSafe) - Funciones wrapper para la gestión automática de memoria y recursos en aplicaciones C
 
 </td>
