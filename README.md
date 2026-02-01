@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,14,18&height=200&section=header&text=Kobayashi82&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=vzurera-&descAlignY=55&descSize=18"/>
-</div>
 
 ## Mis Proyectos
 
