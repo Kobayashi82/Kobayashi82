@@ -82,9 +82,7 @@
 </tr>
 </table>
 
-- * Proyecto aún en desarrollo
-+ * Proyecto completado
-##### [*]() Proyecto aún en desarrollo
+##### [*](#) Proyecto aún en desarrollo
 
 ---
 <br/><br/>
