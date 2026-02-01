@@ -83,6 +83,7 @@
 </table>
 
 ##### <span style="color: blue;">*</span> Proyecto aún en desarrollo
+<h5><span style="color: blue;">*</span> Proyecto aún en desarrollo</h5>
 ##### [*]() Proyecto aún en desarrollo
 
 ---
