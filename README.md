@@ -9,134 +9,74 @@
 <br/><br/>
 
 ## Mis Proyectos
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔧 Sistemas
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/MattDaemon">MattDaemon</a></td>
-  <td>-</td>
-  <td>Daemon con shell remoto, cifrado y logging avanzado</td>
-</tr>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/Taskmaster">Taskmaster *</a></td>
-  <td>-</td>
-  <td>Control de procesos estilo supervisor</td>
-</tr>
-</table>
-
-### 🖥️ Shells
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/42sh">42sh *</a></td>
-  <td>-</td>
-  <td>Shell UNIX con control de trabajos</td>
-</tr>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/Minishell">Minishell</a></td>
-  <td>-</td>
-  <td>Shell minimalista tipo Unix</td>
-</tr>
-</table>
-
-### 🏗️ Servidores
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/Webserv">Webserv</a></td>
-  <td>-</td>
-  <td>Servidor HTTP custom en C++98</td>
-</tr>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/Inception">Inception</a></td>
-  <td>-</td>
-  <td>Infraestructura dockerizada con NGINX, WordPress, MariaDB</td>
-</tr>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/ft_transcendence">ft_transcendence</a></td>
-  <td>-</td>
-  <td>Plataforma web interactiva de Pong en tiempo real</td>
-</tr>
-</table>
-
-### 🤖 Arduino
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/K-WAYD">K-WAYD</a></td>
-  <td>-</td>
-  <td>Sistema de monitoreo de actividad remota combinado con hardware Arduino</td>
-</tr>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/AutoTrim">AutoTrim *</a></td>
-  <td>-</td>
-  <td>(Work in Progress) Piloto automático para MSFS 2020 que controla una rueda de trim física conectada a Arduino</td>
-</tr>
-</table>
+- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) - Daemon con shell remoto, cifrado y logging avanzado
+- [Taskmaster *](https://github.com/Kobayashi82/Taskmaster) - Control de procesos estilo supervisor
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Redes
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/ft_malcolm">ft_malcolm</a></td>
-  <td>-</td>
-  <td>Herramienta educativa de ARP spoofing</td>
+- [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) - Herramienta educativa de ARP spoofing
+- [ft_ping](https://github.com/Kobayashi82/ft_ping) - Implementación custom del comando ping
+- [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación del comando traceroute
+
+</td>
 </tr>
+
 <tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/ft_ping">ft_ping</a></td>
-  <td>-</td>
-  <td>Implementación custom del comando ping</td>
-</tr>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/ft_traceroute">ft_traceroute *</a></td>
-  <td>-</td>
-  <td>Implementación del comando traceroute</td>
-</tr>
-</table>
+<td width="50%" valign="top">
+
+### 🖥️ Shells
+- [42sh *](https://github.com/Kobayashi82/42sh) - Shell UNIX con control de trabajos
+- [Minishell](https://github.com/Kobayashi82/Minishell) - Shell minimalista tipo Unix
+
+</td>
+<td width="50%" valign="top">
 
 ### 💾 Gestión de Memoria
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/Malloc">Malloc</a></td>
-  <td>-</td>
-  <td>Asignador de memoria dinámico con mmap</td>
+- [Malloc](https://github.com/Kobayashi82/Malloc) - Asignador de memoria dinámico con mmap
+- [MemSafe](https://github.com/Kobayashi82/MemSafe) - Funciones wrapper para la gestión automática de memoria y recursos en aplicaciones C
+
+</td>
 </tr>
+
 <tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/MemSafe">MemSafe</a></td>
-  <td>-</td>
-  <td>Funciones wrapper para la gestión automática de memoria y recursos en aplicaciones C</td>
-</tr>
-</table>
+<td width="50%" valign="top">
+
+### 🏗️ Servidores
+- [Webserv](https://github.com/Kobayashi82/Webserv) - Servidor HTTP custom en C++98
+- [Inception](https://github.com/Kobayashi82/Inception) - Infraestructura dockerizada con NGINX, WordPress, MariaDB
+- [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) - Plataforma web interactiva de Pong en tiempo real
+
+</td>
+<td width="50%" valign="top">
 
 ### 🪟 Windows
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/K-Desktop">K-Desktop</a></td>
-  <td>-</td>
-  <td>Programa de automatización</td>
+- [K-Desktop](https://github.com/Kobayashi82/K-Desktop) - Programa de automatización
+- [K-Movies](https://github.com/Kobayashi82/K-Movies) - Gestor de películas
+- [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) - Servicio Windows + keylogger (educativo)
+
+</td>
 </tr>
+
 <tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/K-Movies">K-Movies</a></td>
-  <td>-</td>
-  <td>Gestor de películas</td>
-</tr>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/Tinky-Winkey">Tinky-Winkey</a></td>
-  <td>-</td>
-  <td>Servicio Windows + keylogger (educativo)</td>
-</tr>
-</table>
+<td width="50%" valign="top">
+
+### 🤖 Arduino
+- [K-WAYD](https://github.com/Kobayashi82/K-WAYD) - Sistema de monitoreo de actividad remota combinado con hardware Arduino
+- [AutoTrim *](https://github.com/Kobayashi82/AutoTrim) - (Work in Progress) Piloto automático para MSFS 2020 que controla una rueda de trim física conectada a Arduino
+
+</td>
+<td width="50%" valign="top">
 
 ### 🚀 Kerbal (kOS)
-<table>
-<tr>
-  <td align="right" nowrap><a href="https://github.com/Kobayashi82/SBurn">SBurn *</a></td>
-  <td>-</td>
-  <td>Suicide Burn script para Kerbal Operating System (kOS)</td>
-</tr>
-</table>
+- [SBurn *](https://github.com/Kobayashi82/SBurn) - Suicide Burn script para Kerbal Operating System (kOS)
 
 </td>
 </tr>
