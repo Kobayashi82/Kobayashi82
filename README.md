@@ -3,8 +3,8 @@
 <td width="800" valign="top">
 
 ### 🔧 Sistemas
-- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) - Daemon con shell remoto y logging
-- [Taskmaster *](https://github.com/Kobayashi82/Taskmaster) &nbsp;- Control de procesos estilo supervisor
+- <a href="https://github.com/Kobayashi82/MattDaemon" target="_blank">MattDaemon</a> - Daemon con shell remoto y logging
+- <a href="https://github.com/Kobayashi82/Taskmaster" target="_blank">Taskmaster *</a> &nbsp;- Control de procesos estilo supervisor
 
 </td>
 <td width="50%" valign="top">
