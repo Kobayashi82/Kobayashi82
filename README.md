@@ -86,7 +86,3 @@
 
 ---
 <br/><br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,14,18&height=200&section=footer"/>
-</div>
