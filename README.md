@@ -58,8 +58,8 @@
 <td width="50%" valign="top">
 
 ### 🪟 Windows
-- [K-Desktop](https://github.com/Kobayashi82/K-Desktop) &nbsp;&nbsp;&nbsp;&nbsp;- Programa de automatización
-- [K-Movies](https://github.com/Kobayashi82/K-Movies) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Gestor de películas
+- [K-Desktop](https://github.com/Kobayashi82/K-Desktop) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Programa de automatización
+- [K-Movies](https://github.com/Kobayashi82/K-Movies) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Gestor de películas
 - [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) - Servicio Windows + keylogger
 
 </td>
