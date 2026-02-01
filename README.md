@@ -22,7 +22,7 @@
 <td width="50%" valign="top">
 
 ### 🌐 Redes
-- [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Spoofing ARP educativo
+- [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Spoofing ARP educativo
 - [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación de ping
 - [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación de traceroute
 
@@ -59,7 +59,7 @@
 
 ### 🪟 Windows
 - [K-Desktop](https://github.com/Kobayashi82/K-Desktop) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Programa de automatización
-- [K-Movies](https://github.com/Kobayashi82/K-Movies) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Gestor de películas
+- [K-Movies](https://github.com/Kobayashi82/K-Movies) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Gestor de películas
 - [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) - Servicio Windows y keylogger
 
 </td>
