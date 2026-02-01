@@ -23,8 +23,8 @@
 
 ### 🌐 Redes
 - [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Spoofing ARP educativo
-- [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación del comando ping
-- [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación del comando traceroute
+- [ft_ping](https://github.com/Kobayashi82/ft_ping) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementación de ping
+- [ft_traceroute *](https://github.com/Kobayashi82/ft_traceroute) - Implementación de traceroute
 
 </td>
 </tr>
