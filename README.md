@@ -11,111 +11,111 @@
 ## Mis Proyectos
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="400" valign="top">
 
 **🔧 Sistemas**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/MattDaemon">MattDaemon</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/MattDaemon">MattDaemon</a>:</td>
   <td>Daemon con shell remoto, cifrado y logging avanzado</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/Taskmaster">Taskmaster *</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/Taskmaster">Taskmaster *</a>:</td>
   <td>Control de procesos estilo supervisor</td>
 </tr>
 </table>
 
 **🖥️ Shells**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/42sh">42sh *</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/42sh">42sh *</a>:</td>
   <td>Shell UNIX con control de trabajos</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/Minishell">Minishell</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/Minishell">Minishell</a>:</td>
   <td>Shell minimalista tipo Unix</td>
 </tr>
 </table>
 
 **🏗️ Servidores**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/Webserv">Webserv</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/Webserv">Webserv</a>:</td>
   <td>Servidor HTTP custom en C++98</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/Inception">Inception</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/Inception">Inception</a>:</td>
   <td>Infraestructura dockerizada con NGINX, WordPress, MariaDB</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/ft_transcendence">ft_transcendence</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/ft_transcendence">ft_transcendence</a>:</td>
   <td>Plataforma web interactiva de Pong en tiempo real</td>
 </tr>
 </table>
 
 **🤖 Arduino**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/K-WAYD">K-WAYD</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/K-WAYD">K-WAYD</a>:</td>
   <td>Sistema de monitoreo de actividad remota combinado con hardware Arduino</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/AutoTrim">AutoTrim *</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/AutoTrim">AutoTrim *</a>:</td>
   <td>(Work in Progress) Piloto automático para MSFS 2020 que controla una rueda de trim física conectada a Arduino</td>
 </tr>
 </table>
 
 </td>
-<td width="50%" valign="top">
+<td width="400" valign="top">
 
 **🌐 Redes**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/ft_malcolm">ft_malcolm</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/ft_malcolm">ft_malcolm</a>:</td>
   <td>Herramienta educativa de ARP spoofing</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/ft_ping">ft_ping</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/ft_ping">ft_ping</a>:</td>
   <td>Implementación custom del comando ping</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/ft_traceroute">ft_traceroute *</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/ft_traceroute">ft_traceroute *</a>:</td>
   <td>Implementación del comando traceroute</td>
 </tr>
 </table>
 
 **💾 Gestión de Memoria**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/Malloc">Malloc</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/Malloc">Malloc</a>:</td>
   <td>Asignador de memoria dinámico con mmap</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/MemSafe">MemSafe</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/MemSafe">MemSafe</a>:</td>
   <td>Funciones wrapper para la gestión automática de memoria y recursos en aplicaciones C</td>
 </tr>
 </table>
 
 **🪟 Windows**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/K-Desktop">K-Desktop</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/K-Desktop">K-Desktop</a>:</td>
   <td>Programa de automatización</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/K-Movies">K-Movies</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/K-Movies">K-Movies</a>:</td>
   <td>Gestor de películas</td>
 </tr>
 <tr>
-  <td align="right"><a href="https://github.com/Kobayashi82/Tinky-Winkey">Tinky-Winkey</a>:</td>
+  <td align="right" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/Tinky-Winkey">Tinky-Winkey</a>:</td>
   <td>Servicio Windows + keylogger (educativo)</td>
 </tr>
 </table>
 
 **🚀 Kerbal (kOS)**
-<table>
+<table width="400">
 <tr>
-  <td align="right" width="160"><a href="https://github.com/Kobayashi82/SBurn">SBurn *</a>:</td>
+  <td align="right" width="120" style="white-space: nowrap;"><a href="https://github.com/Kobayashi82/SBurn">SBurn *</a>:</td>
   <td>Suicide Burn script para Kerbal Operating System (kOS)</td>
 </tr>
 </table>
