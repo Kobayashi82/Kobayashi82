@@ -9,7 +9,6 @@
 <br/><br/>
 
 ## Mis Proyectos
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -17,7 +16,7 @@
 <table>
 <tr><td colspan="2"><b>🔧 Sistemas</b></td></tr>
 <tr>
-  <td align="right" width="140"><a href="https://github.com/Kobayashi82/MattDaemon">MattDaemon</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/MattDaemon">MattDaemon</a>:</td>
   <td>Daemon con shell remoto, cifrado y logging avanzado</td>
 </tr>
 <tr>
@@ -65,7 +64,7 @@
 <table>
 <tr><td colspan="2"><b>🌐 Redes</b></td></tr>
 <tr>
-  <td align="right" width="140"><a href="https://github.com/Kobayashi82/ft_malcolm">ft_malcolm</a>:</td>
+  <td align="right" width="160"><a href="https://github.com/Kobayashi82/ft_malcolm">ft_malcolm</a>:</td>
   <td>Herramienta educativa de ARP spoofing</td>
 </tr>
 <tr>
