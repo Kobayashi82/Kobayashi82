@@ -15,7 +15,7 @@
 <td width="50%" valign="top">
 
 ### 🔧 Sistemas
-- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) &nbsp;&nbsp;- Daemon con shell remoto, cifrado y logging avanzado
+- [MattDaemon](https://github.com/Kobayashi82/MattDaemon) &nbsp;&nbsp;- Daemon con shell remoto, cifrado y logging
 - [Taskmaster *](https://github.com/Kobayashi82/Taskmaster) - Control de procesos estilo supervisor
 
 </td>
