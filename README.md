@@ -12,7 +12,7 @@
 
 <table style="table-layout: fixed; width: 100%;">
 <tr>
-<td width="400" valign="top">
+<td width="800" valign="top">
 
 ### 🔧 Sistemas
 - [MattDaemon](https://github.com/Kobayashi82/MattDaemon) - Daemon con shell remoto y logging
