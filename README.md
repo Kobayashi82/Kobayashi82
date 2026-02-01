@@ -4,8 +4,6 @@
 
 ---
 
-**Entusiasta en sistemas de bajo nivel** que disfruta desentrañando cómo funcionan las cosas por dentro. Desde daemons hasta malware, desde shells hasta escáneres de red. Si tiene que ver con el kernel, la memoria o los sockets, probablemente me interese.
-
 ## Mis Proyectos
 
 <table style="table-layout: fixed; width: 100%;">
