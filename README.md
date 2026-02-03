@@ -22,8 +22,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kobayashi82/Webserv/main/Webserv.png" height="150">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/Inception/main/Inception.png" height="150">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_transcendence/main/ft_transcendence.png" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/Inception/main/Inception.jpg" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_transcendence/main/ft_transcendence.jpg" height="150">
 </div>
 
 <div align="center">
