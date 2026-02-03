@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_ping/main/ft_ping.png" height="200">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_traceroute/main/ft_traceroute.png" height="200">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_malcolm/main/ft_malcolm.png" height="200">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_ping/main/ft_ping.png" height="200" width="32%">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_traceroute/main/ft_traceroute.png" height="200" width="32%">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/ft_malcolm/main/ft_malcolm.png" height="200" width="32%">
 </div>
 
 ---
