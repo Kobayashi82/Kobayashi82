@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/images/AutoTrim.png" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/AutoTrim/main/images/AutoTrim.png" height="150">
   <img src="https://raw.githubusercontent.com/Kobayashi82/K-WAYD/main/K-WAYD.png" height="150">
 </div>
 
