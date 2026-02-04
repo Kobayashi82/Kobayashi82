@@ -1,5 +1,5 @@
 
-<h2 align="center">Shells</h2>
+<h2 align="center">Shell</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/42sh.png" width="220" title="Full POSIX shell" alt="42sh"></a>
   <a href="https://github.com/Kobayashi82/Minishell"><img src="https://raw.githubusercontent.com/Kobayashi82/Minishell/main/Minishell.png" width="220" title="Minimal shell" alt="Minishell"></a>
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2 align="center">Systems</h2>
+<h2 align="center">System</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/MattDaemon"><img src="https://raw.githubusercontent.com/Kobayashi82/MattDaemon/main/MattDaemon.png" width="220" title="Daemon with remote shell and logging" alt="MattDaemon"></a>
   <a href="https://github.com/Kobayashi82/Taskmaster"><img src="https://raw.githubusercontent.com/Kobayashi82/Taskmaster/main/Taskmaster.png" width="220" title="Supervisor-style process control" alt="Taskmaster"></a>
@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 align="center">Servers</h2>
+<h2 align="center">Server</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/Webserv"><img src="https://raw.githubusercontent.com/Kobayashi82/Webserv/main/Webserv.png" width="220" title="HTTP server" alt="Webserv"></a>
   <a href="https://github.com/Kobayashi82/Inception"><img src="https://raw.githubusercontent.com/Kobayashi82/Inception/main/Inception.png" width="220" title="Docker with WordPress and MariaDB" alt="Inception"></a>
