@@ -1,12 +1,7 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/MattDaemon/main/MattDaemon.png" height="150">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/Taskmaster/main/Taskmaster.png" height="150">
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/42sh.png" height="150">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/Minishell/main/doc/MiniShell.jpg" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/Minishell/main/Minishell.png" height="150">
 </div>
 
 <div align="center">
@@ -21,20 +16,25 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/MattDaemon/main/MattDaemon.png" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/Taskmaster/main/Taskmaster.png" height="150">
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Kobayashi82/Webserv/main/Webserv.png" height="150">
   <img src="https://raw.githubusercontent.com/Kobayashi82/Inception/main/Inception.jpg" height="150">
   <img src="https://raw.githubusercontent.com/Kobayashi82/ft_transcendence/main/ft_transcendence.jpg" height="150">
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/K-Desktop/main/images/K-Desktop.png" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/K-Movies/main/images/K-Movies.png" height="150">
   <img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/Malloc.png" height="150">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/K-Desktop/main/images/Comandos.jpg" height="150">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/K-Movies/main/images/K-Movies.jpg" height="150">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/K-WAYD/main/K-WAYD%20(Arduino)/K-WAYD.jpg" height="150">
-  <img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/Malloc.png" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/images/AutoTrim.png" height="150">
+  <img src="https://raw.githubusercontent.com/Kobayashi82/K-WAYD/main/K-WAYD.png" height="150">
 </div>
 
 <div align="center">
