@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2 align="center">Networking</h2>
+<h2 align="center">Network</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/ft_ping"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ping/main/ft_ping.png" width="220" title="Ping implementation" alt="ft_ping"></a>
   <a href="https://github.com/Kobayashi82/ft_traceroute"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_traceroute/main/ft_traceroute.png" width="220" title="Traceroute implementation" alt="ft_traceroute"></a>
