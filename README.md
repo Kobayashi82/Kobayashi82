@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2 align="center">Gestión de Memoria</h2>
+<h2 align="center">Memory Management</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/Malloc"><img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/Malloc.png" width="220" title="Dynamic memory allocator" alt="Malloc"></a>
   <a href="https://github.com/Kobayashi82/MemSafe"><img src="https://raw.githubusercontent.com/Kobayashi82/MemSafe/main/MemSafe.png" width="220" title="C memory management wrapper" alt="MemSafe"></a>
@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2 align="center">Redes</h2>
+<h2 align="center">Networking</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/ft_ping"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ping/main/ft_ping.png" width="220" title="Ping implementation" alt="ft_ping"></a>
   <a href="https://github.com/Kobayashi82/ft_traceroute"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_traceroute/main/ft_traceroute.png" width="220" title="Traceroute implementation" alt="ft_traceroute"></a>
@@ -24,7 +24,7 @@
 
 <hr>
 
-<h2 align="center">Sistemas</h2>
+<h2 align="center">Systems</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/MattDaemon"><img src="https://raw.githubusercontent.com/Kobayashi82/MattDaemon/main/MattDaemon.png" width="220" title="Daemon with remote shell and logging" alt="MattDaemon"></a>
   <a href="https://github.com/Kobayashi82/Taskmaster"><img src="https://raw.githubusercontent.com/Kobayashi82/Taskmaster/main/Taskmaster.png" width="220" title="Supervisor-style process control" alt="Taskmaster"></a>
@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 align="center">Servidores</h2>
+<h2 align="center">Servers</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/Webserv"><img src="https://raw.githubusercontent.com/Kobayashi82/Webserv/main/Webserv.png" width="220" title="HTTP server" alt="Webserv"></a>
   <a href="https://github.com/Kobayashi82/Inception"><img src="https://raw.githubusercontent.com/Kobayashi82/Inception/main/Inception.png" width="220" title="Docker with WordPress and MariaDB" alt="Inception"></a>
