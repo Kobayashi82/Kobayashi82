@@ -7,7 +7,7 @@
 
 <br>
 
-<h2 align="center">Memory Management</h2>
+<h2 align="center">Memory</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/Malloc"><img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/Malloc.png" width="220" title="Dynamic memory allocator" alt="Malloc"></a>
   <a href="https://github.com/Kobayashi82/MemSafe"><img src="https://raw.githubusercontent.com/Kobayashi82/MemSafe/main/MemSafe.png" width="220" title="C memory management wrapper" alt="MemSafe"></a>
