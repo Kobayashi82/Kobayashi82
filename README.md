@@ -60,6 +60,6 @@
 
 <h2 align="center">Kerbal (kOS)</h2>
 <div align="center">
-  <a href="https://github.com/Kobayashi82/SBurn"><img src="https://raw.githubusercontent.com/Kobayashi82/SBurn/main/Kerbal.jpg" width="220" title="Landing script (Suicide Burn)" alt="SBurn"></a>
+  <a href="https://github.com/Kobayashi82/Suicide-Burn"><img src="https://raw.githubusercontent.com/Kobayashi82/Suicide-Burn/main/Kerbal.jpg" width="220" title="Landing script (Suicide Burn)" alt="SBurn"></a>
 </div>
 
