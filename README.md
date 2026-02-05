@@ -1,8 +1,8 @@
 
-<h2 align="center">Shell</h2>
+<h2 align="center">Arduino</h2>
 <div align="center">
-  <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/42sh.png" width="220" title="Full POSIX shell" alt="42sh"></a>
-  <a href="https://github.com/Kobayashi82/Minishell"><img src="https://raw.githubusercontent.com/Kobayashi82/Minishell/main/Minishell.png" width="220" title="Minimal shell" alt="Minishell"></a>
+  <a href="https://github.com/Kobayashi82/AutoTrim"><img src="https://raw.githubusercontent.com/Kobayashi82/AutoTrim/main/images/AutoTrim.png" width="220" title="Autopilot for MSFS 2020" alt="AutoTrim"></a>
+  <a href="https://github.com/Kobayashi82/K-WAYD"><img src="https://raw.githubusercontent.com/Kobayashi82/K-WAYD/main/K-WAYD.png" width="220" title="Remote activity monitor" alt="K-WAYD"></a>
 </div>
 
 <br>
@@ -11,6 +11,14 @@
 <div align="center">
   <a href="https://github.com/Kobayashi82/Malloc"><img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/Malloc.png" width="220" title="Dynamic memory allocator" alt="Malloc"></a>
   <a href="https://github.com/Kobayashi82/MemSafe"><img src="https://raw.githubusercontent.com/Kobayashi82/MemSafe/main/MemSafe.png" width="220" title="C memory management wrapper" alt="MemSafe"></a>
+</div>
+
+<br>
+
+<h2 align="center">Shell</h2>
+<div align="center">
+  <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/42sh.png" width="220" title="Full POSIX shell" alt="42sh"></a>
+  <a href="https://github.com/Kobayashi82/Minishell"><img src="https://raw.githubusercontent.com/Kobayashi82/Minishell/main/Minishell.png" width="220" title="Minimal shell" alt="Minishell"></a>
 </div>
 
 <br>
@@ -47,14 +55,6 @@
   <a href="https://github.com/Kobayashi82/K-Desktop"><img src="https://raw.githubusercontent.com/Kobayashi82/K-Desktop/main/images/K-Desktop.png" width="220" title="Automation tool" alt="K-Desktop"></a>
   <a href="https://github.com/Kobayashi82/K-Movies"><img src="https://raw.githubusercontent.com/Kobayashi82/K-Movies/main/images/K-Movies.png" width="220" title="Movie manager" alt="K-Movies"></a>
   <a href="https://github.com/Kobayashi82/Tinky-Winkey"><img src="https://raw.githubusercontent.com/Kobayashi82/Tinky-Winkey/main/Tinky-Winkey.png" width="220" title="Windows service and keylogger" alt="Tinky-Winkey"></a>
-</div>
-
-<br>
-
-<h2 align="center">Arduino</h2>
-<div align="center">
-  <a href="https://github.com/Kobayashi82/AutoTrim"><img src="https://raw.githubusercontent.com/Kobayashi82/AutoTrim/main/images/AutoTrim.png" width="220" title="Autopilot for MSFS 2020" alt="AutoTrim"></a>
-  <a href="https://github.com/Kobayashi82/K-WAYD"><img src="https://raw.githubusercontent.com/Kobayashi82/K-WAYD/main/K-WAYD.png" width="220" title="Remote activity monitor" alt="K-WAYD"></a>
 </div>
 
 <br>
