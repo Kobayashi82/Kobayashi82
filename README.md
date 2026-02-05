@@ -15,20 +15,20 @@
 
 <br>
 
-<h2 align="center">Network</h2>
-<div align="center">
-  <a href="https://github.com/Kobayashi82/ft_ping"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ping/main/ft_ping.png" width="220" title="Ping implementation" alt="ft_ping"></a>
-  <a href="https://github.com/Kobayashi82/ft_traceroute"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_traceroute/main/ft_traceroute.png" width="220" title="Traceroute implementation" alt="ft_traceroute"></a>
-  <a href="https://github.com/Kobayashi82/ft_malcolm"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_malcolm/main/ft_malcolm.png" width="220" title="Educational ARP spoofing" alt="ft_malcolm"></a>
-</div>
-
-<br>
-
 <h2 align="center">System</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/MattDaemon"><img src="https://raw.githubusercontent.com/Kobayashi82/MattDaemon/main/MattDaemon.png" width="220" title="Daemon with remote shell and logging" alt="MattDaemon"></a>
   <a href="https://github.com/Kobayashi82/Taskmaster"><img src="https://raw.githubusercontent.com/Kobayashi82/Taskmaster/main/Taskmaster.png" width="220" title="Supervisor-style process control" alt="Taskmaster"></a>
   <a href="https://github.com/Kobayashi82/ft_ls"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ls/main/ft_ls.png" width="220" title="File listing utility" alt="ft_ls"></a>
+</div>
+
+<br>
+
+<h2 align="center">Network</h2>
+<div align="center">
+  <a href="https://github.com/Kobayashi82/ft_ping"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ping/main/ft_ping.png" width="220" title="Ping implementation" alt="ft_ping"></a>
+  <a href="https://github.com/Kobayashi82/ft_traceroute"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_traceroute/main/ft_traceroute.png" width="220" title="Traceroute implementation" alt="ft_traceroute"></a>
+  <a href="https://github.com/Kobayashi82/ft_malcolm"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_malcolm/main/ft_malcolm.png" width="220" title="Educational ARP spoofing" alt="ft_malcolm"></a>
 </div>
 
 <br>
