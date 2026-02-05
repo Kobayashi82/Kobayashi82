@@ -68,4 +68,3 @@
 <div align="center">
   <a href="https://github.com/Kobayashi82/Suicide-Burn"><img src="https://raw.githubusercontent.com/Kobayashi82/Suicide-Burn/main/Suicide-Burn.png" width="220" title="Landing script" alt="Suicide Burn"></a>
 </div>
-
