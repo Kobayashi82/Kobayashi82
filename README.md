@@ -28,6 +28,7 @@
 <div align="center">
   <a href="https://github.com/Kobayashi82/MattDaemon"><img src="https://raw.githubusercontent.com/Kobayashi82/MattDaemon/main/MattDaemon.png" width="220" title="Daemon with remote shell and logging" alt="MattDaemon"></a>
   <a href="https://github.com/Kobayashi82/Taskmaster"><img src="https://raw.githubusercontent.com/Kobayashi82/Taskmaster/main/Taskmaster.png" width="220" title="Supervisor-style process control" alt="Taskmaster"></a>
+  <a href="https://github.com/Kobayashi82/ft_ls"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ls/main/ft_ls.png" width="220" title="File listing utility" alt="ft_ls"></a>
 </div>
 
 <br>
@@ -62,4 +63,3 @@
 <div align="center">
   <a href="https://github.com/Kobayashi82/Suicide-Burn"><img src="https://raw.githubusercontent.com/Kobayashi82/Suicide-Burn/main/Suicide-Burn.png" width="220" title="Landing script" alt="Suicide Burn"></a>
 </div>
-
