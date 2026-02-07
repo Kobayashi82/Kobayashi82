@@ -66,5 +66,5 @@
   <a href="https://github.com/Kobayashi82/Rendezvous"><img src="https://raw.githubusercontent.com/Kobayashi82/Rendezvous/main/Rendezvous.png" width="220" title="Rendezvous script" alt="Rendezvous"></a>
   <a href="https://github.com/Kobayashi82/Docking"><img src="https://raw.githubusercontent.com/Kobayashi82/Docking/main/Docking.png" width="220" title="Docking script" alt="Docking"></a>
   <a href="https://github.com/Kobayashi82/Reentry"><img src="https://raw.githubusercontent.com/Kobayashi82/Reentry/main/Reentry.png" width="220" title="Reentry script" alt="Reentry"></a>
-  <a href="https://github.com/Kobayashi82/Suicide-Burn"><img src="https://raw.githubusercontent.com/Kobayashi82/Suicide-Burn/main/Suicide_Burn.png" width="220" title="Landing script" alt="Suicide Burn"></a>
+  <a href="https://github.com/Kobayashi82/Landing"><img src="https://raw.githubusercontent.com/Kobayashi82/Landing/main/Landing.png" width="220" title="Landing script" alt="Landing"></a>
 </div>
