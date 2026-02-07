@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Banner.png" width="220" title="These images were generated using AI, the code wasn't" alt="Banner">
+  <img src="Banner.png" width="100%" title="These images were generated using AI, the code wasn't" alt="Banner">
 </div>
 
 <h2 align="center">Arduino</h2>
