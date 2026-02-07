@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/Kobayashi82/Kobayashi82"><img src="images/Banner.png" width="220" title="These images were generated using AI, the code wasn't" alt="Banner"></a>
+  <img src="Banner.png" width="220" title="These images were generated using AI, the code wasn't" alt="Banner">
 </div>
 
 <h2 align="center">Arduino</h2>
