@@ -64,5 +64,5 @@
   <a href="https://github.com/Kobayashi82/Go2Pad"><img src="https://raw.githubusercontent.com/Kobayashi82/Go2Pad/main/Go2Pad.png" width="220" title="Navigation script" alt="Go2Pad"></a>
   <a href="https://github.com/Kobayashi82/Launch"><img src="https://raw.githubusercontent.com/Kobayashi82/Launch/main/Launch.png" width="220" title="Launch script" alt="Launch"></a>
   <a href="https://github.com/Kobayashi82/Reentry"><img src="https://raw.githubusercontent.com/Kobayashi82/Reentry/main/Reentry.png" width="220" title="Reentry script" alt="Reentry"></a>
-  <a href="https://github.com/Kobayashi82/Suicide-Burn"><img src="https://raw.githubusercontent.com/Kobayashi82/Suicide-Burn/main/Suicide-Burn.png" width="220" title="Landing script" alt="Suicide Burn"></a>
+  <a href="https://github.com/Kobayashi82/Suicide-Burn"><img src="https://raw.githubusercontent.com/Kobayashi82/Suicide-Burn/main/Suicide_Burn.png" width="220" title="Landing script" alt="Suicide Burn"></a>
 </div>
