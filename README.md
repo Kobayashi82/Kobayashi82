@@ -21,7 +21,7 @@
 
 <h2 align="center">Shell</h2>
 <div align="center">
-  <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/W_42sh.png" width="220" title="POSIX shell (Work in progress)" alt="42sh"></a>
+  <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/W_42sh.png" width="220" title="POSIX shell" alt="42sh"></a>
   <a href="https://github.com/Kobayashi82/Minishell"><img src="https://raw.githubusercontent.com/Kobayashi82/Minishell/main/Minishell.png" width="220" title="Minimalistic shell" alt="Minishell"></a>
 </div>
 
