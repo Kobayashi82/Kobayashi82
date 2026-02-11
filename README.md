@@ -64,6 +64,7 @@
   <a href="https://github.com/Kobayashi82/K-Movies"><img src="https://raw.githubusercontent.com/Kobayashi82/K-Movies/main/images/K-Movies.png" width="220" title="Movie manager" alt="K-Movies"></a>
   <a href="https://github.com/Kobayashi82/Tinky-Winkey"><img src="https://raw.githubusercontent.com/Kobayashi82/Tinky-Winkey/main/Tinky-Winkey.png" width="220" title="Windows service & keylogger" alt="Tinky-Winkey"></a>
   <a href="https://github.com/Kobayashi82/LaunchManager"><img src="https://raw.githubusercontent.com/Kobayashi82/LaunchManager/main/images/LaunchManager.png" width="220" title="MSFS 2020 app launcher" alt="LaunchManager"></a>
+  <a href="https://github.com/Kobayashi82/GeoCam"><img src="https://raw.githubusercontent.com/Kobayashi82/GeoCam/main/images/GeoCam.png" width="220" title="MSFS 2020 Screenshot Geotagging" alt="GeoCam"></a>
 </div>
 
 <br>
