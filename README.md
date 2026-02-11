@@ -73,7 +73,7 @@
 <div align="center">
   <a href="https://github.com/Kobayashi82/AutoTrim"><img src="https://raw.githubusercontent.com/Kobayashi82/AutoTrim/main/images/W_AutoTrim.png" width="220" title="MSFS 2020 trim autopilot" alt="AutoTrim"></a>
   <a href="https://github.com/Kobayashi82/LaunchManager"><img src="https://raw.githubusercontent.com/Kobayashi82/LaunchManager/main/images/LaunchManager.png" width="220" title="MSFS 2020 app launcher" alt="LaunchManager"></a>
-  <a href="https://github.com/Kobayashi82/GeoCam"><img src="https://raw.githubusercontent.com/Kobayashi82/GeoCam/main/images/GeoCam.png" width="220" title="MSFS 2020 Screenshot Geotagging" alt="GeoCam"></a>
+  <a href="https://github.com/Kobayashi82/GeoCam"><img src="https://raw.githubusercontent.com/Kobayashi82/GeoCam/main/images/GeoCam.png" width="220" title="MSFS 2020 screenshot geotagging" alt="GeoCam"></a>
 </div>
 
 <br>
