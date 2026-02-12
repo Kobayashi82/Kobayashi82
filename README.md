@@ -10,7 +10,7 @@
 </div>
 <br>
 
-<h2 align="center">Assembly</h2>
+<h2 align="center">Libraries</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/Libasm"><img src="https://raw.githubusercontent.com/Kobayashi82/Libasm/main/images/Libasm.jpg" width="220" title="Small library in assembly" alt="Libasm"></a>
 </div>
