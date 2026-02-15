@@ -61,12 +61,6 @@
   <a href="https://github.com/Kobayashi82/Inception"><img src="https://raw.githubusercontent.com/Kobayashi82/Inception/main/images/Inception.jpg" width="220" title="Docker system infrastructure" alt="Inception"></a>
   <a href="https://github.com/Kobayashi82/ft_transcendence"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_transcendence/main/images/ft_transcendence.jpg" width="220" title="Multiplayer pong game" alt="ft_transcendence"></a>
 </div>
-<br>
-
-<h2 align="center">Mobile</h2>
-<div align="center">
-  <a href="https://github.com/Kobayashi82/42Stalker"><img src="https://raw.githubusercontent.com/Kobayashi82/42Stalker/main/images/42Stalker.jpg" width="220" title="42 student login monitor app" alt="42Stalker"></a>
-</div>
 
 <br>
 
