@@ -42,8 +42,6 @@
 <div align="center">
   <a href="https://github.com/Kobayashi82/ft_ping"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ping/main/images/ft_ping.jpg" width="220" title="ICMP ping utility" alt="ft_ping"></a>
   <a href="https://github.com/Kobayashi82/ft_traceroute"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_traceroute/main/images/W_ft_traceroute.jpg" width="220" title="Network tracking utility" alt="ft_traceroute"></a>
-  <br>
-  <a href="https://github.com/Kobayashi82/ft_nmap"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_nmap/main/images/W_ft_nmap.jpg" width="220" title="Network scanning utility" alt="ft_nmap"></a>
   <a href="https://github.com/Kobayashi82/ft_malcolm"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_malcolm/main/images/ft_malcolm.jpg" width="220" title="ARP spoofing tool" alt="ft_malcolm"></a>
 </div>
 
