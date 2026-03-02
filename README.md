@@ -3,18 +3,18 @@
   <img src="images/Banner.jpg" width="80%" title="These images were generated using AI, the code wasn't" alt="Banner">
 </div>
 
-<h2 align="center">Memory</h2>
-<div align="center">
-  <a href="https://github.com/Kobayashi82/Malloc"><img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/images/Malloc.jpg" width="220" title="Custom memory allocation" alt="Malloc"></a>
-  <a href="https://github.com/Kobayashi82/MemSafe"><img src="https://raw.githubusercontent.com/Kobayashi82/MemSafe/main/images/MemSafe.jpg" width="220" title="Memory management" alt="MemSafe"></a>
-</div>
-
-<br>
-
 <h2 align="center">Shell</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/images/W_42sh.jpg" width="220" title="POSIX shell" alt="42sh"></a>
   <a href="https://github.com/Kobayashi82/Minishell"><img src="https://raw.githubusercontent.com/Kobayashi82/Minishell/main/images/Minishell.jpg" width="220" title="Minimalistic shell" alt="Minishell"></a>
+</div>
+
+<br>
+
+<h2 align="center">Memory</h2>
+<div align="center">
+  <a href="https://github.com/Kobayashi82/Malloc"><img src="https://raw.githubusercontent.com/Kobayashi82/Malloc/main/images/Malloc.jpg" width="220" title="Custom memory allocation" alt="Malloc"></a>
+  <a href="https://github.com/Kobayashi82/MemSafe"><img src="https://raw.githubusercontent.com/Kobayashi82/MemSafe/main/images/MemSafe.jpg" width="220" title="Memory management" alt="MemSafe"></a>
 </div>
 
 <br>
