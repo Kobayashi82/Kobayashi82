@@ -26,6 +26,9 @@
   <br>
   <a href="https://github.com/Kobayashi82/ft_select"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_select/main/images/W_ft_select.jpg" width="220" title="Interactive choice menus" alt="ft_select"></a>
   <a href="https://github.com/Kobayashi82/ft_ls"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ls/main/images/W_ft_ls.jpg" width="220" title="File listing utility" alt="ft_ls"></a>
+  <!-- <br> -->
+  <!-- <a href="https://github.com/Kobayashi82/ft_script"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_script/main/images/W_ft_script.jpg" width="220" title="..." alt="ft_script"></a>
+  <a href="https://github.com/Kobayashi82/ft_ssl"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ssl/main/images/W_ft_ssl.jpg" width="220" title="..." alt="ft_ssl"></a> -->
 </div>
 
 <br>
@@ -76,4 +79,19 @@
   <a href="https://github.com/Kobayashi82/AutoTrim"><img src="https://raw.githubusercontent.com/Kobayashi82/AutoTrim/main/images/W_AutoTrim.jpg" width="220" title="MSFS 2020 trim autopilot" alt="AutoTrim"></a>
   <a href="https://github.com/Kobayashi82/LaunchManager"><img src="https://raw.githubusercontent.com/Kobayashi82/LaunchManager/main/images/LaunchManager.jpg" width="220" title="MSFS 2020 app launcher" alt="LaunchManager"></a>
   <a href="https://github.com/Kobayashi82/GeoCam"><img src="https://raw.githubusercontent.com/Kobayashi82/GeoCam/main/images/GeoCam.jpg" width="220" title="MSFS 2020 screenshot geotagging" alt="GeoCam"></a>
+</div>
+
+<br>
+
+<h2 align="center">Kerbal (kOS)</h2>
+<div align="center">
+  <a href="https://github.com/Kobayashi82/Launch"><img src="https://raw.githubusercontent.com/Kobayashi82/Launch/main/images/W_Launch.jpg" width="220" title="Kerbal launch script" alt="Launch"></a>
+  <a href="https://github.com/Kobayashi82/Rendezvous"><img src="https://raw.githubusercontent.com/Kobayashi82/Rendezvous/main/images/W_Rendezvous.jpg" width="220" title="Kerbal rendezvous script" alt="Rendezvous"></a>
+  <a href="https://github.com/Kobayashi82/Docking"><img src="https://raw.githubusercontent.com/Kobayashi82/Docking/main/images/W_Docking.jpg" width="220" title="Kerbal docking script" alt="Docking"></a>
+  <a href="https://github.com/Kobayashi82/Reentry"><img src="https://raw.githubusercontent.com/Kobayashi82/Reentry/main/images/W_Reentry.jpg" width="220" title="Kerbal reentry script" alt="Reentry"></a>
+  <a href="https://github.com/Kobayashi82/Landing"><img src="https://raw.githubusercontent.com/Kobayashi82/Landing/main/images/W_Landing.jpg" width="220" title="Kerbal landing script" alt="Landing"></a>
+  <a href="https://github.com/Kobayashi82/Go2Pad"><img src="https://raw.githubusercontent.com/Kobayashi82/Go2Pad/main/images/W_Go2Pad.jpg" width="220" title="Kerbal navigation script" alt="Go2Pad"></a>
+  <a href="https://github.com/Kobayashi82/Maneuver"><img src="https://raw.githubusercontent.com/Kobayashi82/Maneuver/main/images/W_Maneuver.jpg" width="220" title="Kerbal orbital maneuver script" alt="Maneuver"></a>
+  <a href="https://github.com/Kobayashi82/Hover"><img src="https://raw.githubusercontent.com/Kobayashi82/Hover/main/images/W_Hover.jpg" width="220" title="Kerbal hover script" alt="Hover"></a>
+  <a href="https://github.com/Kobayashi82/Suborbital"><img src="https://raw.githubusercontent.com/Kobayashi82/Suborbital/main/images/W_Suborbital.jpg" width="220" title="Kerbal suborbital flight script" alt="Suborbital"></a>
 </div>
