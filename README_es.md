@@ -44,7 +44,7 @@ Actualmente estoy centrado en **herramientas de red y manipulación de paquetes 
 - Inglés — B2
 
 ---
-<br>
+
 <br>
 
 <h2 align="center">Shell</h2>
@@ -141,6 +141,7 @@ Actualmente estoy centrado en **herramientas de red y manipulación de paquetes 
   <a href="https://github.com/Kobayashi82/Suborbital"><img src="https://raw.githubusercontent.com/Kobayashi82/Suborbital/main/images/W_Suborbital.jpg" width="220" title="Script de vuelo suborbital para Kerbal" alt="Suborbital"></a>
 </div>
 
+<br>
 <br>
 
 <div align="center">
