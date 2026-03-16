@@ -133,9 +133,11 @@ Actualmente estoy centrado en **herramientas de red y manipulación de paquetes 
   <a href="https://github.com/Kobayashi82/Launch"><img src="https://raw.githubusercontent.com/Kobayashi82/Launch/main/images/W_Launch.jpg" width="220" title="Script de lanzamiento para Kerbal" alt="Launch"></a>
   <a href="https://github.com/Kobayashi82/Rendezvous"><img src="https://raw.githubusercontent.com/Kobayashi82/Rendezvous/main/images/W_Rendezvous.jpg" width="220" title="Script de rendezvous para Kerbal" alt="Rendezvous"></a>
   <a href="https://github.com/Kobayashi82/Docking"><img src="https://raw.githubusercontent.com/Kobayashi82/Docking/main/images/W_Docking.jpg" width="220" title="Script de acoplamiento para Kerbal" alt="Docking"></a>
+  <br>
   <a href="https://github.com/Kobayashi82/Reentry"><img src="https://raw.githubusercontent.com/Kobayashi82/Reentry/main/images/W_Reentry.jpg" width="220" title="Script de reentrada para Kerbal" alt="Reentry"></a>
   <a href="https://github.com/Kobayashi82/Landing"><img src="https://raw.githubusercontent.com/Kobayashi82/Landing/main/images/W_Landing.jpg" width="220" title="Script de aterrizaje para Kerbal" alt="Landing"></a>
   <a href="https://github.com/Kobayashi82/Go2Pad"><img src="https://raw.githubusercontent.com/Kobayashi82/Go2Pad/main/images/W_Go2Pad.jpg" width="220" title="Script de navegación para Kerbal" alt="Go2Pad"></a>
+  <br>
   <a href="https://github.com/Kobayashi82/Maneuver"><img src="https://raw.githubusercontent.com/Kobayashi82/Maneuver/main/images/W_Maneuver.jpg" width="220" title="Script de maniobras orbitales para Kerbal" alt="Maneuver"></a>
   <a href="https://github.com/Kobayashi82/Hover"><img src="https://raw.githubusercontent.com/Kobayashi82/Hover/main/images/W_Hover.jpg" width="220" title="Script de vuelo estacionario para Kerbal" alt="Hover"></a>
   <a href="https://github.com/Kobayashi82/Suborbital"><img src="https://raw.githubusercontent.com/Kobayashi82/Suborbital/main/images/W_Suborbital.jpg" width="220" title="Script de vuelo suborbital para Kerbal" alt="Suborbital"></a>
