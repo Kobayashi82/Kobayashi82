@@ -1,3 +1,51 @@
+[Leer en español](README_es.md)
+
+# Víctor Javier Zurera del Valle
+
+## About Me
+
+I'm a C/C++ developer specializing in **systems and network programming**, trained at **42 Málaga**: a project-based engineering school with no teachers, no lectures, and no guided instruction.
+
+I came to software development as a self-taught professional, driven by a need to understand how things work at the lowest level. Not just how to use them — how they're built, why they behave the way they do, and what happens when you push them to their limits.
+
+I work **independently**, I'm **methodical**, and I don't leave things half-understood. I consistently go well beyond minimum requirements — not out of obligation, but because shallow understanding isn't satisfying to me. 
+
+I'm currently focused on **network tools and low-level packet manipulation**.
+
+**Open to remote opportunities** in systems programming, network engineering, or security-focused roles.
+
+---
+
+### 📌 Highlighted Projects
+
+| Project                                                     | Description                                                                                                                |
+|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [**Malloc**](https://github.com/Kobayashi82/Malloc)         | Dynamic memory allocator with coalescing, bin management, alignment, and full malloc family                                |
+| [**MattDaemon**](https://github.com/Kobayashi82/MattDaemon) | Daemon with PAM system authentication, pseudo-terminal support, remote shell and logging                                   |
+| [**Webserv**](https://github.com/Kobayashi82/Webserv)       | HTTP server implemented from scratch in C++ with socket and connection management                                          |
+| [**ft_ping**](https://github.com/Kobayashi82/ft_ping)       | Network tools built from scratch using raw sockets                                                                         |
+| [**K-Desktop**](https://github.com/Kobayashi82/K-Desktop)   | Full Windows automation suite with global hotkeys, virtual keyboards, screen/audio/video recording, and remote UDP control |
+
+---
+
+### 🚧 Currently Working On
+
+| Project                                                     | Description                                                                                                       |
+|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [**42sh**](https://github.com/Kobayashi82/42sh)             | Full POSIX shell aimed at bash-level compatibility, including job control, signal handling and advanced expansion |
+| [**Taskmaster**](https://github.com/Kobayashi82/Taskmaster) | Supervisor-style process manager with configuration, monitoring and control of multiple processes                 |
+| [**ft_nmap**](https://github.com/Kobayashi82/ft_nmap)       | Network scanner implementing multiple scan types using raw sockets and a custom packet construction library       |
+
+---
+
+### 🌍 Languages
+
+- Spanish — Native
+- English — B2
+
+---
+<br>
+<br>
 
 <div align="center">
   <img src="images/Banner.jpg" width="80%" title="These images were generated using AI, the code wasn't" alt="Banner">
