@@ -28,7 +28,7 @@
   <a href="https://github.com/Kobayashi82/ft_ls"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ls/main/images/W_ft_ls.jpg" width="220" title="File listing utility" alt="ft_ls"></a>
   <br>
   <a href="https://github.com/Kobayashi82/ft_script"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_script/main/images/ft_script.jpg" width="220" title="Terminal session recorder" alt="ft_script"></a>
-  <a href="https://github.com/Kobayashi82/ft_ssl"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ssl/main/images/W_ft_ssl.jpg" width="220" title="Cryptography & security toolkit" alt="ft_ssl"></a>
+  <a href="https://github.com/Kobayashi82/ft_ssl"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ssl/main/images/ft_ssl.jpg" width="220" title="Cryptography & security toolkit" alt="ft_ssl"></a>
 </div>
 
 <br>
