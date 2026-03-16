@@ -47,10 +47,6 @@ Actualmente estoy centrado en **herramientas de red y manipulación de paquetes 
 <br>
 <br>
 
-<div align="center">
-  <img src="images/Banner.jpg" width="80%" title="Estas imágenes fueron generadas con IA, el código no" alt="Banner">
-</div>
-
 <h2 align="center">Shell</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/images/W_42sh.jpg" width="220" title="Shell POSIX" alt="42sh"></a>
@@ -143,4 +139,10 @@ Actualmente estoy centrado en **herramientas de red y manipulación de paquetes 
   <a href="https://github.com/Kobayashi82/Maneuver"><img src="https://raw.githubusercontent.com/Kobayashi82/Maneuver/main/images/W_Maneuver.jpg" width="220" title="Script de maniobras orbitales para Kerbal" alt="Maneuver"></a>
   <a href="https://github.com/Kobayashi82/Hover"><img src="https://raw.githubusercontent.com/Kobayashi82/Hover/main/images/W_Hover.jpg" width="220" title="Script de vuelo estacionario para Kerbal" alt="Hover"></a>
   <a href="https://github.com/Kobayashi82/Suborbital"><img src="https://raw.githubusercontent.com/Kobayashi82/Suborbital/main/images/W_Suborbital.jpg" width="220" title="Script de vuelo suborbital para Kerbal" alt="Suborbital"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="images/Banner.jpg" width="80%" title="Estas imágenes fueron generadas con IA, el código no" alt="Banner">
 </div>

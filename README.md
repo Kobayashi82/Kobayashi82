@@ -47,10 +47,6 @@ I'm currently focused on **network tools and low-level packet manipulation**.
 <br>
 <br>
 
-<div align="center">
-  <img src="images/Banner.jpg" width="80%" title="These images were generated using AI, the code wasn't" alt="Banner">
-</div>
-
 <h2 align="center">Shell</h2>
 <div align="center">
   <a href="https://github.com/Kobayashi82/42sh"><img src="https://raw.githubusercontent.com/Kobayashi82/42sh/main/images/W_42sh.jpg" width="220" title="POSIX shell" alt="42sh"></a>
@@ -143,4 +139,10 @@ I'm currently focused on **network tools and low-level packet manipulation**.
   <a href="https://github.com/Kobayashi82/Maneuver"><img src="https://raw.githubusercontent.com/Kobayashi82/Maneuver/main/images/W_Maneuver.jpg" width="220" title="Kerbal orbital maneuver script" alt="Maneuver"></a>
   <a href="https://github.com/Kobayashi82/Hover"><img src="https://raw.githubusercontent.com/Kobayashi82/Hover/main/images/W_Hover.jpg" width="220" title="Kerbal hover script" alt="Hover"></a>
   <a href="https://github.com/Kobayashi82/Suborbital"><img src="https://raw.githubusercontent.com/Kobayashi82/Suborbital/main/images/W_Suborbital.jpg" width="220" title="Kerbal suborbital flight script" alt="Suborbital"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="images/Banner.jpg" width="80%" title="These images were generated using AI, the code wasn't" alt="Banner">
 </div>
