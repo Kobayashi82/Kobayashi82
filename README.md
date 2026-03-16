@@ -24,10 +24,10 @@
   <a href="https://github.com/Kobayashi82/MattDaemon"><img src="https://raw.githubusercontent.com/Kobayashi82/MattDaemon/main/images/MattDaemon.jpg" width="220" title="Encrypted remote shell daemon" alt="MattDaemon"></a>
   <a href="https://github.com/Kobayashi82/Taskmaster"><img src="https://raw.githubusercontent.com/Kobayashi82/Taskmaster/main/images/W_Taskmaster.jpg" width="220" title="Process management supervisor" alt="Taskmaster"></a>
   <br>
-  <a href="https://github.com/Kobayashi82/ft_select"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_select/main/images/W_ft_select.jpg" width="220" title="Interactive choice menus" alt="ft_select"></a>
+  <a href="https://github.com/Kobayashi82/ft_select"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_select/main/images/ft_select.jpg" width="220" title="Interactive choice menus" alt="ft_select"></a>
   <a href="https://github.com/Kobayashi82/ft_ls"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ls/main/images/W_ft_ls.jpg" width="220" title="File listing utility" alt="ft_ls"></a>
   <br>
-  <a href="https://github.com/Kobayashi82/ft_script"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_script/main/images/W_ft_script.jpg" width="220" title="Terminal session recorder" alt="ft_script"></a>
+  <a href="https://github.com/Kobayashi82/ft_script"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_script/main/images/ft_script.jpg" width="220" title="Terminal session recorder" alt="ft_script"></a>
   <a href="https://github.com/Kobayashi82/ft_ssl"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_ssl/main/images/W_ft_ssl.jpg" width="220" title="Cryptography & security toolkit" alt="ft_ssl"></a>
 </div>
 
