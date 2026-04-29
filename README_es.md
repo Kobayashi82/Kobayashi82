@@ -99,7 +99,7 @@ Actualmente estoy centrado en **herramientas de red y manipulación de paquetes 
 
 <h2 align="center">Servidor</h2>
 <div align="center">
-  <a href="https://github.com/Kobayashi82/ProjectAI"><img src="https://raw.githubusercontent.com/Kobayashi82/ProjectAI/main/images/ProjectAI.jpg" width="220" title="Panel centralizado de IA" alt="ProjectAI"></a>
+  <a href="https://github.com/Kobayashi82/ProjectAI"><img src="https://raw.githubusercontent.com/Kobayashi82/ProjectAI/main/images/ProjectAI_web.png" width="220" title="Panel centralizado de IA" alt="ProjectAI"></a>
   <a href="https://github.com/Kobayashi82/Webserv"><img src="https://raw.githubusercontent.com/Kobayashi82/Webserv/main/images/Webserv.jpg" width="220" title="Servidor web personalizado" alt="Webserv"></a>
   <a href="https://github.com/Kobayashi82/ft_transcendence"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_transcendence/main/images/ft_transcendence.jpg" width="220" title="Juego pong multijugador" alt="ft_transcendence"></a>
   <br>
