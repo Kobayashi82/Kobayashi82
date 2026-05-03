@@ -20,6 +20,7 @@ I'm currently focused on **network tools and low-level packet manipulation**.
 
 | Project                                                     | Description                                                                                                                |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [**Project AI**](https://github.com/Kobayashi82/ProjectAI)  | Unified dashboard for remote operations, multimedia, gaming, AI services and monitoring                                    |
 | [**Malloc**](https://github.com/Kobayashi82/Malloc)         | Dynamic memory allocator with coalescing, bin management, alignment, and full malloc family                                |
 | [**MattDaemon**](https://github.com/Kobayashi82/MattDaemon) | Daemon with PAM system authentication, pseudo-terminal support, remote shell and logging                                   |
 | [**Webserv**](https://github.com/Kobayashi82/Webserv)       | HTTP server implemented from scratch in C++ with socket and connection management                                          |
