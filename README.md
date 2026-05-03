@@ -100,7 +100,7 @@ I'm currently focused on **network tools and low-level packet manipulation**.
 
 <h2 align="center">Server</h2>
 <div align="center">
-  <a href="https://github.com/Kobayashi82/ProjectAI"><img src="https://raw.githubusercontent.com/Kobayashi82/ProjectAI/main/images/ProjectAI.jpg" width="220" title="Centralized AI dashboard" alt="ProjectAI"></a>
+  <a href="https://github.com/Kobayashi82/ProjectAI"><img src="https://raw.githubusercontent.com/Kobayashi82/ProjectAI/main/images/ProjectAI.jpg" width="220" title="Centralized Dashboard" alt="ProjectAI"></a>
   <a href="https://github.com/Kobayashi82/Webserv"><img src="https://raw.githubusercontent.com/Kobayashi82/Webserv/main/images/Webserv.jpg" width="220" title="Custom web server" alt="Webserv"></a>
   <a href="https://github.com/Kobayashi82/ft_transcendence"><img src="https://raw.githubusercontent.com/Kobayashi82/ft_transcendence/main/images/ft_transcendence.jpg" width="220" title="Multiplayer pong game" alt="ft_transcendence"></a>
   <br>
