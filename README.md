@@ -74,7 +74,7 @@ I'm currently focused on **network tools and low-level packet manipulation**.
 |---------|-------------|
 | [ft_ssl](https://github.com/Kobayashi82/ft_ssl) | Cryptography toolkit reimplementing digest algorithms and symmetric ciphers |
 | [ft_nm](https://github.com/Kobayashi82/ft_nm) | ELF symbol analyzer reimplementing nm for 32 and 64-bit binaries |
-| [woody_woodpacker](https://github.com/Kobayashi82/woody_woodpacker) | ELF binary packer supporting x86 and x86-64, with RC4 encryption, LZSS compression and CRC32 integrity verification |
+| [Woody-Woodpacker](https://github.com/Kobayashi82/woody_woodpacker) | ELF binary packer supporting x86 and x86-64, with RC4 encryption, LZSS compression and CRC32 integrity verification |
 | [ft_shield](https://github.com/Kobayashi82/ft_shield) | Trojan horse that installs itself as a system daemon with persistence on boot, exposing a password-protected backdoor shell |
 
 ## Network

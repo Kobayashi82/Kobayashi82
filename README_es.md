@@ -74,7 +74,7 @@ Actualmente estoy centrado en **herramientas de red y manipulación de paquetes 
 |---------|-------------|
 | [ft_ssl](https://github.com/Kobayashi82/ft_ssl) | Kit de criptografía que reimplementa algoritmos de digest y cifrados simétricos |
 | [ft_nm](https://github.com/Kobayashi82/ft_nm) | Analizador de símbolos ELF que reimplementa nm para binarios de 32 y 64 bits |
-| [woody_woodpacker](https://github.com/Kobayashi82/woody_woodpacker) | Packer de binarios ELF con soporte x86 y x86-64, cifrado RC4, compresión LZSS y verificación de integridad CRC32 |
+| [Woody-Woodpacker](https://github.com/Kobayashi82/woody_woodpacker) | Packer de binarios ELF con soporte x86 y x86-64, cifrado RC4, compresión LZSS y verificación de integridad CRC32 |
 | [ft_shield](https://github.com/Kobayashi82/ft_shield) | Troyano que se instala como daemon del sistema con persistencia en el arranque, exponiendo una shell backdoor protegida por contraseña |
 
 ## Red
