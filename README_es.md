@@ -1,6 +1,6 @@
 [Read in english](README.md)
 
-# Víctor Javier Zurera del Valle
+# Víctor Javier Zurera del Valle - *Kobayashi82*
 
 ## Sobre mí
 
