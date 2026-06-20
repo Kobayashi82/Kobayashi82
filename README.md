@@ -10,7 +10,7 @@ I came to software development as a self-taught professional, driven by a need t
 
 I work **independently**, I'm **methodical**, and I don't leave things half-understood. I consistently go well beyond minimum requirements — not out of obligation, but because shallow understanding isn't satisfying to me. 
 
-I'm currently focused on **network tools and low-level packet manipulation**.
+I'm currently focused on **binary security and low-level ELF manipulation**.
 
 **Open to remote opportunities** in systems programming, network engineering, or security-focused roles.
 

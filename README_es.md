@@ -10,7 +10,7 @@ Llegué al desarrollo de software como profesional autodidacta, impulsado por la
 
 Trabajo de forma **independiente**, soy **metódico** y no dejo nada a medias. Voy de forma consistente mucho más allá de los requisitos mínimos, no por obligación, sino porque una comprensión superficial no me satisface.
 
-Actualmente estoy centrado en **herramientas de red y manipulación de paquetes a bajo nivel**.
+Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo nivel**.
 
 **Abierto a oportunidades en remoto** en programación de sistemas, ingeniería de redes o puestos orientados a seguridad.
 
