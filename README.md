@@ -32,8 +32,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 
 | Project | Description |
 |---------|-------------|
-| [**Woody-Woodpacker**](https://github.com/Kobayashi82/Woody-Woodpacker) | ELF binary packer supporting x86 and x86-64, with RC4 encryption, LZSS compression and CRC32 integrity verification |
-| [**ft_shield**](https://github.com/Kobayashi82/ft_shield) | Trojan horse that installs itself as a system daemon with persistence on boot, exposing a password-protected backdoor shell |
 | [**ft_nmap**](https://github.com/Kobayashi82/ft_nmap) | Network scanner implementing multiple scan types using raw sockets and a custom packet construction library |
 | [**Taskmaster**](https://github.com/Kobayashi82/Taskmaster) | Supervisor-style process manager with configuration, monitoring and control of multiple processes |
 | [**42sh**](https://github.com/Kobayashi82/42sh) | Full POSIX shell aimed at bash-level compatibility, including job control, signal handling and advanced expansion |
@@ -62,7 +60,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 
 | Project | Description |
 |---------|-------------|
-| [MattDaemon](https://github.com/Kobayashi82/MattDaemon) | Daemon with PAM system authentication, pseudo-terminal support, remote shell and logging |
 | [Taskmaster](https://github.com/Kobayashi82/Taskmaster) | Supervisor-style process manager with configuration, monitoring and control of multiple processes |
 | [ft_select](https://github.com/Kobayashi82/ft_select) | Interactive terminal selection menu using raw mode and escape sequences |
 | [ft_script](https://github.com/Kobayashi82/ft_script) | Terminal session recorder that captures input and output to a file |
@@ -72,10 +69,11 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 
 | Project | Description |
 |---------|-------------|
-| [ft_ssl](https://github.com/Kobayashi82/ft_ssl) | Cryptography toolkit reimplementing digest algorithms and symmetric ciphers |
-| [ft_nm](https://github.com/Kobayashi82/ft_nm) | ELF symbol analyzer reimplementing nm for 32 and 64-bit binaries |
+| [MattDaemon](https://github.com/Kobayashi82/MattDaemon) | Daemon with PAM system authentication, pseudo-terminal support, remote shell and logging |
 | [Woody-Woodpacker](https://github.com/Kobayashi82/woody_woodpacker) | ELF binary packer supporting x86 and x86-64, with RC4 encryption, LZSS compression and CRC32 integrity verification |
 | [ft_shield](https://github.com/Kobayashi82/ft_shield) | Trojan horse that installs itself as a system daemon with persistence on boot, exposing a password-protected backdoor shell |
+| [ft_nm](https://github.com/Kobayashi82/ft_nm) | ELF symbol analyzer reimplementing nm for 32 and 64-bit binaries |
+| [ft_ssl](https://github.com/Kobayashi82/ft_ssl) | Cryptography toolkit reimplementing digest algorithms and symmetric ciphers |
 
 ## Network
 
