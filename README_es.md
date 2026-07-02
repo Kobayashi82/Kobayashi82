@@ -33,6 +33,7 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 
 | Proyecto | Descripción |
 |---------|-------------|
+| [**ft_traceroute**](https://github.com/Kobayashi82/ft_traceroute) | Herramienta de trazado de ruta de red usando manipulación de TTL y raw sockets |
 | [**ft_nmap**](https://github.com/Kobayashi82/ft_nmap) | Escáner de red con múltiples tipos de escaneo usando raw sockets y una librería de construcción de paquetes propia |
 | [**Taskmaster**](https://github.com/Kobayashi82/Taskmaster) | Gestor de procesos estilo supervisor con configuración, monitorización y control de múltiples procesos |
 | [**42sh**](https://github.com/Kobayashi82/42sh) | Shell POSIX completa orientada a compatibilidad con bash, incluyendo control de trabajos, manejo de señales y expansión avanzada |
@@ -64,7 +65,6 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 | [Taskmaster](https://github.com/Kobayashi82/Taskmaster) | Gestor de procesos estilo supervisor con configuración, monitorización y control de múltiples procesos |
 | [ft_select](https://github.com/Kobayashi82/ft_select) | Menú de selección interactivo en terminal usando modo raw y secuencias de escape |
 | [ft_script](https://github.com/Kobayashi82/ft_script) | Grabador de sesiones de terminal que captura entrada y salida en un archivo |
-| [ft_ls](https://github.com/Kobayashi82/ft_ls) | Reimplementación de ls con ordenación, formateo y listado recursivo |
 | [ft_nm](https://github.com/Kobayashi82/ft_nm) | Analizador de símbolos ELF que reimplementa nm para binarios de 32 y 64 bits |
 
 ## Seguridad
