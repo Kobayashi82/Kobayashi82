@@ -33,6 +33,7 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 
 | Project | Description |
 |---------|-------------|
+| [**ft_traceroute**](https://github.com/Kobayashi82/ft_traceroute) | Network path tracing tool using TTL manipulation and raw sockets |
 | [**ft_nmap**](https://github.com/Kobayashi82/ft_nmap) | Network scanner implementing multiple scan types using raw sockets and a custom packet construction library |
 | [**Taskmaster**](https://github.com/Kobayashi82/Taskmaster) | Supervisor-style process manager with configuration, monitoring and control of multiple processes |
 | [**42sh**](https://github.com/Kobayashi82/42sh) | Full POSIX shell aimed at bash-level compatibility, including job control, signal handling and advanced expansion |
@@ -64,7 +65,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 | [Taskmaster](https://github.com/Kobayashi82/Taskmaster) | Supervisor-style process manager with configuration, monitoring and control of multiple processes |
 | [ft_select](https://github.com/Kobayashi82/ft_select) | Interactive terminal selection menu using raw mode and escape sequences |
 | [ft_script](https://github.com/Kobayashi82/ft_script) | Terminal session recorder that captures input and output to a file |
-| [ft_ls](https://github.com/Kobayashi82/ft_ls) | Reimplementation of ls with sorting, formatting and recursive listing |
 | [ft_nm](https://github.com/Kobayashi82/ft_nm) | ELF symbol analyzer reimplementing nm for 32 and 64-bit binaries |
 
 ## Security
