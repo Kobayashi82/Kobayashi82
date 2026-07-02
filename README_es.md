@@ -84,7 +84,6 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 | [ft_traceroute](https://github.com/Kobayashi82/ft_traceroute) | Herramienta de trazado de ruta de red usando manipulación de TTL y raw sockets |
 | [ft_nmap](https://github.com/Kobayashi82/ft_nmap) | Escáner de red con múltiples tipos de escaneo usando raw sockets y una librería de construcción de paquetes propia |
 | [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) | Herramienta de ARP spoofing para interceptar tráfico entre dos hosts en red local |
-| [BADASS](https://github.com/Kobayashi82/BADASS) | Infraestructura de red BGP y VXLAN usando GNS3 con enrutamiento dinámico entre sistemas autónomos |
 
 ## Librerías
 
@@ -103,7 +102,6 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 | [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) | Juego multijugador de Pong con websockets en tiempo real, autenticación y modo torneo |
 | [Inception](https://github.com/Kobayashi82/Inception) | Infraestructura basada en Docker con NGINX, WordPress y MariaDB orquestada con docker-compose |
 | [Inception-of-Things](https://github.com/Kobayashi82/Inception-of-Things) | Infraestructura Kubernetes y GitOps usando K3s, Argo CD y Vagrant |
-| [Cloud-1](https://github.com/Kobayashi82/Cloud-1) | Despliegue en la nube de la infraestructura Inception en un proveedor remoto |
 
 ## Windows
 
