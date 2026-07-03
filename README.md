@@ -99,9 +99,9 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 |---------|-------------|
 | [ProjectAI](https://github.com/Kobayashi82/ProjectAI) | Self-hosted homelab dashboard aggregating services across VPS, local PC and Raspberry Pi |
 | [Webserv](https://github.com/Kobayashi82/Webserv) | HTTP server implemented from scratch in C++ with socket and connection management |
-| [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) | Multiplayer Pong game with real-time websockets, authentication and tournament mode |
 | [Inception](https://github.com/Kobayashi82/Inception) | Docker-based infrastructure with NGINX, WordPress and MariaDB orchestrated via docker-compose |
 | [Inception-of-Things](https://github.com/Kobayashi82/Inception-of-Things) | Kubernetes and GitOps infrastructure using K3s, Argo CD and Vagrant |
+| [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) | Multiplayer Pong game with real-time websockets, authentication and tournament mode |
 
 ## Windows
 
@@ -109,15 +109,15 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 |---------|-------------|
 | [K-Desktop](https://github.com/Kobayashi82/K-Desktop) | Full Windows automation suite with global hotkeys, virtual keyboards, screen/audio/video recording, and remote UDP control |
 | [K-Movies](https://github.com/Kobayashi82/K-Movies) | Local movie library manager with metadata fetching and playback integration |
-| [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) | Windows service implementing a keylogger with silent background operation |
 | [K-WAYD](https://github.com/Kobayashi82/K-WAYD) | Remote activity monitor that tracks and reports user activity over the network |
+| [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) | Windows service implementing a keylogger with silent background operation |
 
 ## MSFS 2020
 
 | Project | Description |
 |---------|-------------|
 | [AutoTrim](https://github.com/Kobayashi82/AutoTrim) | Automatic trim controller for MSFS 2020 that maintains pitch stability without input |
-| [LaunchManager](https://github.com/Kobayashi82/LaunchManager) | Application launcher and manager for MSFS 2020 companion tools |
+| [Launch Manager](https://github.com/Kobayashi82/LaunchManager) | Application launcher and manager for MSFS 2020 companion tools |
 | [GeoCam](https://github.com/Kobayashi82/GeoCam) | Screenshot tool for MSFS 2020 that embeds GPS coordinates into image metadata |
 
 ---
