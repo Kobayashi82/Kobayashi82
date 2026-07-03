@@ -119,3 +119,7 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 | [AutoTrim](https://github.com/Kobayashi82/AutoTrim) | Automatic trim controller for MSFS 2020 that maintains pitch stability without input |
 | [LaunchManager](https://github.com/Kobayashi82/LaunchManager) | Application launcher and manager for MSFS 2020 companion tools |
 | [GeoCam](https://github.com/Kobayashi82/GeoCam) | Screenshot tool for MSFS 2020 that embeds GPS coordinates into image metadata |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=kobayashi82&label=Profile%20views&color=614CB0&base=115)
