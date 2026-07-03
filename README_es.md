@@ -99,9 +99,9 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 |---------|-------------|
 | [ProjectAI](https://github.com/Kobayashi82/ProjectAI) | Dashboard de homelab self-hosted que agrega servicios entre VPS, PC local y Raspberry Pi |
 | [Webserv](https://github.com/Kobayashi82/Webserv) | Servidor HTTP implementado desde cero en C++ con gestión de sockets y conexiones |
-| [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) | Juego multijugador de Pong con websockets en tiempo real, autenticación y modo torneo |
 | [Inception](https://github.com/Kobayashi82/Inception) | Infraestructura basada en Docker con NGINX, WordPress y MariaDB orquestada con docker-compose |
 | [Inception-of-Things](https://github.com/Kobayashi82/Inception-of-Things) | Infraestructura Kubernetes y GitOps usando K3s, Argo CD y Vagrant |
+| [ft_transcendence](https://github.com/Kobayashi82/ft_transcendence) | Juego multijugador de Pong con websockets en tiempo real, autenticación y modo torneo |
 
 ## Windows
 
@@ -109,15 +109,15 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 |---------|-------------|
 | [K-Desktop](https://github.com/Kobayashi82/K-Desktop) | Suite completa de automatización Windows con hotkeys globales, teclados virtuales, grabación de pantalla/audio/vídeo y control UDP remoto |
 | [K-Movies](https://github.com/Kobayashi82/K-Movies) | Gestor de biblioteca de películas local con descarga de metadatos e integración de reproducción |
-| [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) | Servicio Windows que implementa un keylogger con operación silenciosa en segundo plano |
 | [K-WAYD](https://github.com/Kobayashi82/K-WAYD) | Monitor de actividad remoto que rastrea y reporta la actividad del usuario por red |
+| [Tinky-Winkey](https://github.com/Kobayashi82/Tinky-Winkey) | Servicio Windows que implementa un keylogger con operación silenciosa en segundo plano |
 
 ## MSFS 2020
 
 | Proyecto | Descripción |
 |---------|-------------|
 | [AutoTrim](https://github.com/Kobayashi82/AutoTrim) | Controlador automático de trim para MSFS 2020 que mantiene estabilidad de cabeceo sin input |
-| [LaunchManager](https://github.com/Kobayashi82/LaunchManager) | Lanzador y gestor de aplicaciones para herramientas complementarias de MSFS 2020 |
+| [Launch Manager](https://github.com/Kobayashi82/LaunchManager) | Lanzador y gestor de aplicaciones para herramientas complementarias de MSFS 2020 |
 | [GeoCam](https://github.com/Kobayashi82/GeoCam) | Herramienta de capturas para MSFS 2020 que incrusta coordenadas GPS en los metadatos de la imagen |
 
 ---
