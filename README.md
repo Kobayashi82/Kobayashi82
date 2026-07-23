@@ -33,8 +33,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 
 | Project | Description |
 |---------|-------------|
-| [**ft_traceroute**](https://github.com/Kobayashi82/ft_traceroute) | Network path tracing tool using TTL manipulation and raw sockets |
-| [**ft_nmap**](https://github.com/Kobayashi82/ft_nmap) | Network scanner implementing multiple scan types using raw sockets and a custom packet construction library |
 | [**Taskmaster**](https://github.com/Kobayashi82/Taskmaster) | Supervisor-style process manager with configuration, monitoring and control of multiple processes |
 | [**42sh**](https://github.com/Kobayashi82/42sh) | Full POSIX shell aimed at bash-level compatibility, including job control, signal handling and advanced expansion |
 
@@ -81,8 +79,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 | Project | Description |
 |---------|-------------|
 | [ft_ping](https://github.com/Kobayashi82/ft_ping) | Network tools built from scratch using raw sockets |
-| [ft_traceroute](https://github.com/Kobayashi82/ft_traceroute) | Network path tracing tool using TTL manipulation and raw sockets |
-| [ft_nmap](https://github.com/Kobayashi82/ft_nmap) | Network scanner implementing multiple scan types using raw sockets and a custom packet construction library |
 | [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) | ARP spoofing tool for intercepting traffic between two hosts on a local network |
 
 ## Libraries
