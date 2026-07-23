@@ -33,8 +33,6 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 
 | Proyecto | Descripción |
 |---------|-------------|
-| [**ft_traceroute**](https://github.com/Kobayashi82/ft_traceroute) | Herramienta de trazado de ruta de red usando manipulación de TTL y raw sockets |
-| [**ft_nmap**](https://github.com/Kobayashi82/ft_nmap) | Escáner de red con múltiples tipos de escaneo usando raw sockets y una librería de construcción de paquetes propia |
 | [**Taskmaster**](https://github.com/Kobayashi82/Taskmaster) | Gestor de procesos estilo supervisor con configuración, monitorización y control de múltiples procesos |
 | [**42sh**](https://github.com/Kobayashi82/42sh) | Shell POSIX completa orientada a compatibilidad con bash, incluyendo control de trabajos, manejo de señales y expansión avanzada |
 
@@ -81,15 +79,12 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 | Proyecto | Descripción |
 |---------|-------------|
 | [ft_ping](https://github.com/Kobayashi82/ft_ping) | Herramientas de red construidas desde cero usando raw sockets |
-| [ft_traceroute](https://github.com/Kobayashi82/ft_traceroute) | Herramienta de trazado de ruta de red usando manipulación de TTL y raw sockets |
-| [ft_nmap](https://github.com/Kobayashi82/ft_nmap) | Escáner de red con múltiples tipos de escaneo usando raw sockets y una librería de construcción de paquetes propia |
 | [ft_malcolm](https://github.com/Kobayashi82/ft_malcolm) | Herramienta de ARP spoofing para interceptar tráfico entre dos hosts en red local |
 
 ## Librerías
 
 | Proyecto | Descripción |
 |---------|-------------|
-| [Libasm](https://github.com/Kobayashi82/Libasm) | Funciones estándar de la librería C reimplementadas en ensamblador x86-64 |
 | [Libft](https://github.com/Kobayashi82/Libft) | Librería C personal con funciones de string, memoria, listas y utilidades de I/O |
 | [ft_packet](https://github.com/Kobayashi82/ft_packet) | Librería de bajo nivel para construir y parsear paquetes de red en crudo |
 
