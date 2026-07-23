@@ -54,7 +54,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 | Project | Description |
 |---------|-------------|
 | [Malloc](https://github.com/Kobayashi82/Malloc) | Dynamic memory allocator with coalescing, bin management, alignment, and full malloc family |
-| [MemSafe](https://github.com/Kobayashi82/MemSafe) | Memory safety wrapper for detecting leaks and invalid accesses at runtime |
 
 ## System
 
