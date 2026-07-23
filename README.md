@@ -91,7 +91,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 
 | Project | Description |
 |---------|-------------|
-| [ProjectAI](https://github.com/Kobayashi82/ProjectAI) | Self-hosted homelab dashboard aggregating services across VPS, local PC and Raspberry Pi |
 | [Webserv](https://github.com/Kobayashi82/Webserv) | HTTP server implemented from scratch in C++ with socket and connection management |
 | [Inception](https://github.com/Kobayashi82/Inception) | Docker-based infrastructure with NGINX, WordPress and MariaDB orchestrated via docker-compose |
 | [Inception-of-Things](https://github.com/Kobayashi82/Inception-of-Things) | Kubernetes and GitOps infrastructure using K3s, Argo CD and Vagrant |
