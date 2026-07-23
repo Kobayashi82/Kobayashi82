@@ -72,7 +72,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 | [MattDaemon](https://github.com/Kobayashi82/MattDaemon) | Daemon with PAM system authentication, pseudo-terminal support, remote shell and logging |
 | [Woody-Woodpacker](https://github.com/Kobayashi82/woody_woodpacker) | ELF binary packer supporting x86 and x86-64, with RC4 encryption, LZSS compression and CRC32 integrity verification |
 | [ft_shield](https://github.com/Kobayashi82/ft_shield) | Trojan horse that installs itself as a system daemon with persistence on boot, exposing a password-protected backdoor shell |
-| [ft_ssl](https://github.com/Kobayashi82/ft_ssl) | Cryptography toolkit reimplementing digest algorithms and symmetric ciphers |
 
 ## Network
 
