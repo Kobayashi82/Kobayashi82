@@ -54,7 +54,6 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 | Proyecto | Descripción |
 |---------|-------------|
 | [Malloc](https://github.com/Kobayashi82/Malloc) | Allocator de memoria dinámica con coalescencia, gestión de bins, alineación y familia completa de malloc |
-| [MemSafe](https://github.com/Kobayashi82/MemSafe) | Wrapper de seguridad de memoria para detectar fugas y accesos inválidos en tiempo de ejecución |
 
 ## Sistema
 
@@ -91,7 +90,6 @@ Actualmente estoy centrado en **seguridad binaria y manipulación de ELF a bajo 
 
 | Proyecto | Descripción |
 |---------|-------------|
-| [ProjectAI](https://github.com/Kobayashi82/ProjectAI) | Dashboard de homelab self-hosted que agrega servicios entre VPS, PC local y Raspberry Pi |
 | [Webserv](https://github.com/Kobayashi82/Webserv) | Servidor HTTP implementado desde cero en C++ con gestión de sockets y conexiones |
 | [Inception](https://github.com/Kobayashi82/Inception) | Infraestructura basada en Docker con NGINX, WordPress y MariaDB orquestada con docker-compose |
 | [Inception-of-Things](https://github.com/Kobayashi82/Inception-of-Things) | Infraestructura Kubernetes y GitOps usando K3s, Argo CD y Vagrant |
