@@ -85,7 +85,6 @@ I'm currently focused on **binary security and low-level ELF manipulation**.
 
 | Project | Description |
 |---------|-------------|
-| [Libasm](https://github.com/Kobayashi82/Libasm) | Standard C library functions reimplemented in x86-64 assembly |
 | [Libft](https://github.com/Kobayashi82/Libft) | Personal C library with string, memory, list and I/O utility functions |
 | [ft_packet](https://github.com/Kobayashi82/ft_packet) | Low-level library for constructing and parsing raw network packets |
 
